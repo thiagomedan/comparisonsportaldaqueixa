@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Company Info</title>
+</head>
+<body>
+	<h1>Company Info</h1>
+	<form method="post">
+		<label for="company_name">Company Name:</label>
+		<input type="text" id="company_name" name="company_name">
+		<input type="submit" value="Submit">
+	</form>
+	{% if descricao %}
+		<p><strong>Descrição:</strong> {{ descricao }}</p>
+		<p><strong>Nota:</strong> {{ nota }}</p>
+		<p><strong>Categoria:</strong> {{ categoria }}</p>
+	{% endif %}
+</body>
+</html>

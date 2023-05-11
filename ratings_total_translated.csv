@@ -1,0 +1,731 @@
+Company,Description,Rating,Category
+Mazda,Great,83.1,automobiles-motorcycles-and-traffic
+Volvo,Good,78.6,automobiles-motorcycles-and-traffic
+Renault,Good,69.3,automobiles-motorcycles-and-traffic
+Oficinas MForce,Great,80.7,automobiles-motorcycles-and-traffic
+Norauto,Good,76.8,automobiles-motorcycles-and-traffic
+Gocarmat,Good,74.9,automobiles-motorcycles-and-traffic
+Vesauto,Great,83.4,automobiles-motorcycles-and-traffic
+JAPautomotive,Good,79.3,automobiles-motorcycles-and-traffic
+Filinto Mota,Good,65.6,automobiles-motorcycles-and-traffic
+Glassdrive,Great,88.8,automobiles-motorcycles-and-traffic
+Carglass,Great,86.3,automobiles-motorcycles-and-traffic
+ExpressGlass,Good,66.5,automobiles-motorcycles-and-traffic
+Bkstickers,Great,88.2,automobiles-motorcycles-and-traffic
+Eurobikes,Weak,36.1,automobiles-motorcycles-and-traffic
+Bikeinn,Weak,31.4,automobiles-motorcycles-and-traffic
+Endcar,Good,75.1,automobiles-motorcycles-and-traffic
+Fidelidade Car Service,Good,61.5,automobiles-motorcycles-and-traffic
+PKE Automotive,Weak,32.3,automobiles-motorcycles-and-traffic
+Stand Tinocar,Great,90.3,automobiles-motorcycles-and-traffic
+CARSPOT,Great,81.2,automobiles-motorcycles-and-traffic
+Car4you,Good,71.5,automobiles-motorcycles-and-traffic
+AutoParts Logistic,Great,95.3,automobiles-motorcycles-and-traffic
+UniversAuto,Great,80.6,automobiles-motorcycles-and-traffic
+Texoleo,Good,73.8,automobiles-motorcycles-and-traffic
+LeasePlan,Good,72.3,automobiles-motorcycles-and-traffic
+KINTO,Reasonable,58.8,automobiles-motorcycles-and-traffic
+ALD Automotive,Reasonable,42.0,automobiles-motorcycles-and-traffic
+AMGCar,Reasonable,46.2,automobiles-motorcycles-and-traffic
+Confiauto,Weak,20.9,automobiles-motorcycles-and-traffic
+JOP,Unsatisfactory,15.4,automobiles-motorcycles-and-traffic
+Benecar – Cidade do Automóvel,Great,99.0,automobiles-motorcycles-and-traffic
+Matrizauto,Great,88.8,automobiles-motorcycles-and-traffic
+CarPlus,Good,75.5,automobiles-motorcycles-and-traffic
+Bridgestone Portugal,Weak,20.3,automobiles-motorcycles-and-traffic
+Michelin,Unsatisfactory,18.5,automobiles-motorcycles-and-traffic
+Continental Pneus,Unsatisfactory,1.5,automobiles-motorcycles-and-traffic
+Dekra Portugal,Reasonable,49.0,automobiles-motorcycles-and-traffic
+TAVFER,Weak,23.1,automobiles-motorcycles-and-traffic
+Controlauto,Weak,20.8,automobiles-motorcycles-and-traffic
+Antero Motos,Reasonable,57.8,automobiles-motorcycles-and-traffic
+Santomar,Reasonable,53.5,automobiles-motorcycles-and-traffic
+Caparica Peles,Reasonable,53.1,automobiles-motorcycles-and-traffic
+Pneus Lider,Good,75.6,automobiles-motorcycles-and-traffic
+Pneus Online,Weak,36.8,automobiles-motorcycles-and-traffic
+Sp Pneus,No data,,automobiles-motorcycles-and-traffic
+Starwash,Reasonable,42.6,automobiles-motorcycles-and-traffic
+Elefante Azul,Weak,33.3,automobiles-motorcycles-and-traffic
+Newash,Unsatisfactory,9.8,automobiles-motorcycles-and-traffic
+Banco Montepio,Great,82.7,banking-insurance-and-real estate
+Banco BNI Europa,Great,80.5,banking-insurance-and-real estate
+ActivoBank,Good,79.2,banking-insurance-and-real estate
+Mobilize Financial Services – Portugal,Great,87.0,banking-insurance-and-real estate
+Oney,Great,86.8,banking-insurance-and-real estate
+Banco Credibom,Great,86.7,banking-insurance-and-real estate
+IVAucher,Great,92.9,banking-insurance-and-real estate
+Easypay,Great,86.5,banking-insurance-and-real estate
+IFTHENPAY,Good,72.2,banking-insurance-and-real estate
+Universo,Great,82.3,banking-insurance-and-real estate
+WiZink,Good,72.8,banking-insurance-and-real estate
+Cartão El Corte Inglés,Reasonable,50.7,banking-insurance-and-real estate
+Euroticket Refeição,Great,88.5,banking-insurance-and-real estate
+Sodexo,Great,87.8,banking-insurance-and-real estate
+Ticket Restaurant,Weak,34.6,banking-insurance-and-real estate
+MB WAY,Great,89.2,banking-insurance-and-real estate
+OpenBank,Good,71.5,banking-insurance-and-real estate
+Moey,Reasonable,50.0,banking-insurance-and-real estate
+Payshop,Great,89.9,banking-insurance-and-real estate
+SaltPay,Great,88.7,banking-insurance-and-real estate
+SIBS,Great,88.5,banking-insurance-and-real estate
+InvestFW,Good,78.8,banking-insurance-and-real estate
+OBRinvest,Reasonable,57.7,banking-insurance-and-real estate
+LiquidityX,Reasonable,44.2,banking-insurance-and-real estate
+Cartão Dá,Great,92.9,banking-insurance-and-real estate
+Cyrana,Reasonable,41.4,banking-insurance-and-real estate
+ViaBuy,Unsatisfactory,17.0,banking-insurance-and-real estate
+Munditransfers,Weak,28.8,banking-insurance-and-real estate
+Skrill,Weak,25.3,banking-insurance-and-real estate
+Wise,Unsatisfactory,16.9,banking-insurance-and-real estate
+Multicert,No data,,banking-insurance-and-real estate
+SEPHORA,Great,93.8,beauty-and-wellness
+Perfumeria Primor,Reasonable,59.2,beauty-and-wellness
+Perfumes & Companhia,Reasonable,57.9,beauty-and-wellness
+TummyTox,Great,90.4,beauty-and-wellness
+Slimjoy Portugal,Good,79.2,beauty-and-wellness
+Nutribio,Good,78.4,beauty-and-wellness
+Be and Care,Great,86.2,beauty-and-wellness
+L'Oréal Paris,Great,81.2,beauty-and-wellness
+Veet,Good,62.8,beauty-and-wellness
+DepilConcept,Reasonable,58.3,beauty-and-wellness
+Maria Bonita,Reasonable,45.9,beauty-and-wellness
+DepilTime,Reasonable,45.1,beauty-and-wellness
+Team Transformerz,Great,81.6,beauty-and-wellness
+Nutribalance,Good,67.6,beauty-and-wellness
+DietEspana.com,No data,,beauty-and-wellness
+SANJAM Cabeleireiros,Reasonable,59.4,beauty-and-wellness
+Cidália Cabeleireios,Weak,37.6,beauty-and-wellness
+Inês Pereira Cabeleireiros,Weak,26.3,beauty-and-wellness
+Doces Aromas,Great,83.4,beauty-and-wellness
+Perfumes.pt,Good,76.5,beauty-and-wellness
+Notino,Reasonable,53.4,beauty-and-wellness
+Renova,Good,69.0,beauty-and-wellness
+CHEIRALFAZEMA,Reasonable,51.1,beauty-and-wellness
+MyEcoPads,Reasonable,47.2,beauty-and-wellness
+Official Alta Cosmética,Great,89.3,beauty-and-wellness
+Salontotal.pt,Good,72.3,beauty-and-wellness
+Loja do Shampoo,Good,68.9,beauty-and-wellness
+Clinicas Bodyscience,Good,74.0,beauty-and-wellness
+Body Concept,Good,65.1,beauty-and-wellness
+NB Clinic,Reasonable,44.0,beauty-and-wellness
+Insparya,Great,97.9,beauty-and-wellness
+Medicapilar,Great,90.3,beauty-and-wellness
+CM2C,Unsatisfactory,1.5,beauty-and-wellness
+Rostus - Agência de Modelos,Reasonable,48.8,beauty-and-wellness
+Space Milan Models,Unsatisfactory,16.0,beauty-and-wellness
+Espaço Fama,Unsatisfactory,10.0,beauty-and-wellness
+Securitas Direct,Great,81.1,house-alarms-and-cleaning
+PROSEGUR ALARMS,Good,78.8,house-alarms-and-cleaning
+Valguard,No data,,house-alarms-and-cleaning
+Leroy Merlin,Good,68.7,house-alarms-and-cleaning
+Armazéns Reis,Good,66.1,house-alarms-and-cleaning
+Bricomarché,Good,61.5,house-alarms-and-cleaning
+Chaves do Areeiro,Weak,31.8,house-alarms-and-cleaning
+Chaviarte,Weak,29.6,house-alarms-and-cleaning
+Piquetes.pt,Unsatisfactory,18.4,house-alarms-and-cleaning
+Vileda,Reasonable,54.3,house-alarms-and-cleaning
+Finish,Reasonable,40.3,house-alarms-and-cleaning
+Fairy,Unsatisfactory,14.1,house-alarms-and-cleaning
+COPS,Great,99.0,house-alarms-and-cleaning
+Strong Charon,Great,91.3,house-alarms-and-cleaning
+Prosegur,Great,86.2,house-alarms-and-cleaning
+Ariston Thermo,Good,72.4,house-alarms-and-cleaning
+Solzaima,Reasonable,59.5,house-alarms-and-cleaning
+Junkers,Unsatisfactory,18.6,house-alarms-and-cleaning
+Urbicult,Good,79.0,house-alarms-and-cleaning
+Planeta Huerto,Good,78.0,house-alarms-and-cleaning
+Cactos e Suculentas Portugal,Good,73.2,house-alarms-and-cleaning
+Ecovolt - Energias Renováveis,Good,72.8,house-alarms-and-cleaning
+Isométrica,Good,71.4,house-alarms-and-cleaning
+EAF Serviço Técnico Nacional,Good,60.4,house-alarms-and-cleaning
+Woosh,Weak,29.6,house-alarms-and-cleaning
+5àSec,Weak,29.4,house-alarms-and-cleaning
+La Wash,Weak,24.0,house-alarms-and-cleaning
+Servitis,Reasonable,59.4,house-alarms-and-cleaning
+Multi24Serviços,Reasonable,51.5,house-alarms-and-cleaning
+RGO Reparações 24 horas,Reasonable,50.3,house-alarms-and-cleaning
+Iberlim,Great,86.1,house-alarms-and-cleaning
+House Shine,Good,68.3,house-alarms-and-cleaning
+Cleancare,Weak,35.4,house-alarms-and-cleaning
+Solverde.pt,Great,86.9,casinos-and-bookmakers
+Moosh,Great,86.6,casinos-and-bookmakers
+Jogos Santa Casa,Great,82.0,casinos-and-bookmakers
+Leon,Great,92.8,casinos-and-bookmakers
+Bettilt,Great,82.2,casinos-and-bookmakers
+Roku Casino,Weak,32.7,casinos-and-bookmakers
+Grupo Solverde,Unsatisfactory,19.4,casinos-and-bookmakers
+Casino Figueira,No data,,casinos-and-bookmakers
+Casino Lisboa,No data,,casinos-and-bookmakers
+Apostas Prognosticos,Weak,31.3,casinos-and-bookmakers
+Feeling Lucky,No data,,casinos-and-bookmakers
+Odds.dog,No data,,casinos-and-bookmakers
+NOS,Great,86.9,comunicacoes-tv-and-media
+MEO,Great,85.5,comunicacoes-tv-and-media
+Nowo,Good,72.8,comunicacoes-tv-and-media
+OPTO,Great,86.1,comunicacoes-tv-and-media
+TDT,Great,84.5,comunicacoes-tv-and-media
+HBO,Weak,28.9,comunicacoes-tv-and-media
+WTF,Great,91.8,comunicacoes-tv-and-media
+Moche,Great,86.6,comunicacoes-tv-and-media
+WOO,Great,85.3,comunicacoes-tv-and-media
+ELEVEN,Good,76.9,comunicacoes-tv-and-media
+SIC,Good,72.5,comunicacoes-tv-and-media
+TV Globo Portugal,Weak,37.6,comunicacoes-tv-and-media
+Mozzi.com,Reasonable,44.3,comunicacoes-tv-and-media
+Mobile Apps,Reasonable,41.2,comunicacoes-tv-and-media
+Cozinha Fácil,Weak,36.6,comunicacoes-tv-and-media
+Sapo,Great,84.3,comunicacoes-tv-and-media
+Notícias ao Minuto,Good,60.8,comunicacoes-tv-and-media
+Observador,Reasonable,42.5,comunicacoes-tv-and-media
+Antena 1,Unsatisfactory,15.3,comunicacoes-tv-and-media
+RFM,Unsatisfactory,11.2,comunicacoes-tv-and-media
+TSF - Rádio Notícias,No data,,comunicacoes-tv-and-media
+Incomunicado,Great,84.5,comunicacoes-tv-and-media
+dstelecom,Good,70.9,comunicacoes-tv-and-media
+Mobile World,Good,67.7,comunicacoes-tv-and-media
+Querido Mudei a Casa Obras,Great,81.1,construction-industry-and-manufacturing
+NaturaLar,Great,80.7,construction-industry-and-manufacturing
+MELOM Obras,Good,77.7,construction-industry-and-manufacturing
+Orona,Good,71.9,construction-industry-and-manufacturing
+Schindler,Weak,38.8,construction-industry-and-manufacturing
+Thyssenkrupp,Weak,25.5,construction-industry-and-manufacturing
+Barbot,Good,66.8,construction-industry-and-manufacturing
+Sollac Tintas,No data,,construction-industry-and-manufacturing
+TSL,No data,,construction-industry-and-manufacturing
+"Pioneiros & Virtuosos, Unipessoal Lda",Reasonable,46.5,construction-industry-and-manufacturing
+ITS – Indústria Transformadora de Subprodutos,No data,,construction-industry-and-manufacturing
+SEGURANÇA TOTAL,No data,,construction-industry-and-manufacturing
+Radar do Tempo,Good,69.0,construction-industry-and-manufacturing
+Tbs Piscinas,Reasonable,57.3,construction-industry-and-manufacturing
+PiscinasDesmontaveis.pt,Reasonable,45.3,construction-industry-and-manufacturing
+CME,Reasonable,53.6,construction-industry-and-manufacturing
+"Ideias Simples, Lda",Weak,34.5,construction-industry-and-manufacturing
+ERI Engenharia,Weak,31.0,construction-industry-and-manufacturing
+FT Shopping,Great,90.6,construction-industry-and-manufacturing
+Loja das Peças,Great,80.0,construction-industry-and-manufacturing
+Barcelona LED Portugal,Reasonable,46.0,construction-industry-and-manufacturing
+Caixiave,Great,81.8,construction-industry-and-manufacturing
+Nuno Miguel Pereira Alumínios,Good,62.0,construction-industry-and-manufacturing
+Velux Portugal,Weak,37.1,construction-industry-and-manufacturing
+Utilmáquina,Weak,31.5,construction-industry-and-manufacturing
+Vitrum Cortinas de Vidro,Unsatisfactory,15.6,construction-industry-and-manufacturing
+Espirito Rebelde Embalagens,Unsatisfactory,14.0,construction-industry-and-manufacturing
+Ferramentas.pt,Good,77.7,construction-industry-and-manufacturing
+Casa Peixoto,Good,68.4,construction-industry-and-manufacturing
+Obras 360,Good,67.2,construction-industry-and-manufacturing
+Resinorte,Reasonable,41.3,construction-industry-and-manufacturing
+Dias Cordiais,Unsatisfactory,11.5,construction-industry-and-manufacturing
+Pellets Power 2,Unsatisfactory,10.0,construction-industry-and-manufacturing
+Jaime Humberto Magalhães,Reasonable,46.0,construction-industry-and-manufacturing
+Fast Serralheria,Unsatisfactory,16.4,construction-industry-and-manufacturing
+RODI,No data,,construction-industry-and-manufacturing
+NACEX,Great,91.3,transport-and-logistics
+Correos Express Portugal,Great,89.7,transport-and-logistics
+Vasp,Great,87.2,transport-and-logistics
+Premium Green Mail,Good,79.2,transport-and-logistics
+CTT,Good,75.5,transport-and-logistics
+CityPOST,No data,,transport-and-logistics
+Expresso 24,Great,89.9,transport-and-logistics
+Via Directa,Great,82.1,transport-and-logistics
+Envialia,Weak,27.5,transport-and-logistics
+SantoseVale,Great,100.0,transport-and-logistics
+Transnautica,Great,88.3,transport-and-logistics
+Kargo,Good,77.8,transport-and-logistics
+TNB Expresso,Good,69.9,transport-and-logistics
+Mudanças Paulo Silva,Reasonable,55.7,transport-and-logistics
+Pack and Go,Reasonable,50.9,transport-and-logistics
+Skynet,Good,77.1,transport-and-logistics
+CTT Express,Good,74.8,transport-and-logistics
+UPS,Good,65.3,transport-and-logistics
+APDL,Good,68.3,transport-and-logistics
+Docapesca,Unsatisfactory,10.0,transport-and-logistics
+APRAM,No data,,transport-and-logistics
+Círculo de Leitores,Reasonable,55.0,culture-leisure-and-fun
+Wook,Reasonable,51.7,culture-leisure-and-fun
+Bertrand Livreiros,Reasonable,50.3,culture-leisure-and-fun
+Watchilds,Great,87.2,culture-leisure-and-fun
+Burago.pt,Great,84.3,culture-leisure-and-fun
+Science4you,Great,81.8,culture-leisure-and-fun
+Feijão Verde Fun Park,Weak,37.3,culture-leisure-and-fun
+Zmar,Weak,32.4,culture-leisure-and-fun
+Oceanário de Lisboa,Weak,23.1,culture-leisure-and-fun
+See Tickets,Great,81.3,culture-leisure-and-fun
+3cket,Reasonable,50.1,culture-leisure-and-fun
+StubHub,Reasonable,43.1,culture-leisure-and-fun
+Eskada Club,Weak,30.5,culture-leisure-and-fun
+Lust in Rio,Unsatisfactory,1.5,culture-leisure-and-fun
+Via Rápida,Unsatisfactory,1.5,culture-leisure-and-fun
+Salvat Editores,Good,63.4,culture-leisure-and-fun
+Ediclube,Good,60.4,culture-leisure-and-fun
+Cordel de Prata,Good,60.3,culture-leisure-and-fun
+Campo Pequeno,Good,68.9,culture-leisure-and-fun
+FIL - Feira Internacional de Lisboa,Reasonable,47.3,culture-leisure-and-fun
+Coliseu dos Recreios,Unsatisfactory,10.0,culture-leisure-and-fun
+IQOS,Good,79.2,culture-leisure-and-fun
+Cultura do Tabaco,Good,77.1,culture-leisure-and-fun
+Tabacaria Rita Dourado,Unsatisfactory,10.0,culture-leisure-and-fun
+Fotosport,Reasonable,41.5,culture-leisure-and-fun
+Mi Amore,Weak,27.5,culture-leisure-and-fun
+O Nosso Casamento,Weak,23.4,culture-leisure-and-fun
+UCI Cinemas,Good,75.9,culture-leisure-and-fun
+CinemaCity,Good,70.7,culture-leisure-and-fun
+Filmin,Weak,36.3,culture-leisure-and-fun
+LX Music,Good,64.7,culture-leisure-and-fun
+Short Connection,Good,61.5,culture-leisure-and-fun
+Kalorama,Good,60.3,culture-leisure-and-fun
+Holmes Place,Great,81.7,sports-gyms-and-clubs
+Fitness UP,Great,81.0,sports-gyms-and-clubs
+Solinca,Good,77.9,sports-gyms-and-clubs
+Decathlon,Reasonable,54.2,sports-gyms-and-clubs
+Sport Zone,Reasonable,52.3,sports-gyms-and-clubs
+Lpoint,Reasonable,43.0,sports-gyms-and-clubs
+Prozis,Great,92.6,sports-gyms-and-clubs
+EU NUTRITION,Great,88.3,sports-gyms-and-clubs
+MySuplementos,Great,86.8,sports-gyms-and-clubs
+Deeply,Reasonable,55.6,sports-gyms-and-clubs
+Berg Outdoor,Reasonable,47.7,sports-gyms-and-clubs
+Asics,Weak,22.5,sports-gyms-and-clubs
+Team Macau,Great,99.1,sports-gyms-and-clubs
+PumpAddicted,Good,69.4,sports-gyms-and-clubs
+Time to Fitness 24,Good,67.8,sports-gyms-and-clubs
+Epda,Great,92.7,sports-gyms-and-clubs
+Loja Verde Online,Great,82.2,sports-gyms-and-clubs
+PieroStore,Good,72.3,sports-gyms-and-clubs
+Futebol Clube do Porto,Weak,34.5,sports-gyms-and-clubs
+Sport Lisboa e Benfica,Unsatisfactory,14.9,sports-gyms-and-clubs
+Sporting Clube de Portugal,Unsatisfactory,10.0,sports-gyms-and-clubs
+Hidromania,Great,91.0,sports-gyms-and-clubs
+BOXPT Equipment,Great,82.3,sports-gyms-and-clubs
+Fitnessdigital,Great,81.1,sports-gyms-and-clubs
+Federação Portuguesa de Ciclismo,Weak,39.0,sports-gyms-and-clubs
+FPF - Federação Portuguesa de Futebol,Weak,29.3,sports-gyms-and-clubs
+Liga Portugal,Unsatisfactory,16.5,sports-gyms-and-clubs
+Skydive Maia,Good,70.9,sports-gyms-and-clubs
+Skydive Porto,Good,68.8,sports-gyms-and-clubs
+GlobalSport,Reasonable,53.3,sports-gyms-and-clubs
+Centro Educacional de Lisboa,Great,90.7,education-training-and-employment
+Esneca,Great,90.0,education-training-and-employment
+Do It Better,Great,89.6,education-training-and-employment
+Talenter,Great,91.7,education-training-and-employment
+Adecco,Great,88.4,education-training-and-employment
+Manpower,Good,76.4,education-training-and-employment
+NOVA FCSH,Great,84.1,education-training-and-employment
+Universidade de Coimbra,Good,66.6,education-training-and-employment
+Faculdade de Arquitetura UT Lisboa,Reasonable,54.3,education-training-and-employment
+British Council Portugal,Reasonable,50.5,education-training-and-employment
+Wall Street English,Reasonable,49.4,education-training-and-employment
+Centro Europeu de Línguas,Weak,36.8,education-training-and-employment
+Externato do Parque,No data,,education-training-and-employment
+Externato e Infantário Nobel,No data,,education-training-and-employment
+Colégio Guadalupe,No data,,education-training-and-employment
+Grande Sábio,No data,,education-training-and-employment
+Génios e Provérbios,No data,,education-training-and-employment
+Centro de Estudos Cuca Matuta,No data,,education-training-and-employment
+OnlineCurriculo.com,Weak,30.3,education-training-and-employment
+Online CV,Weak,24.3,education-training-and-employment
+CVBuilder,Unsatisfactory,5.8,education-training-and-employment
+Jardim de Infância Nossa Senhora de Fátima,No data,,education-training-and-employment
+O Teu Filho,No data,,education-training-and-employment
+Centro Social da Paróquia de Nogueira,No data,,education-training-and-employment
+Indebt,Great,88.5,companies-services-and-associations
+Recactiv,Great,82.9,companies-services-and-associations
+Reconfinance,Good,68.7,companies-services-and-associations
+CENTURY 21 Portugal,Great,80.8,companies-services-and-associations
+Remax,Good,79.5,companies-services-and-associations
+KW Portugal,Reasonable,45.5,companies-services-and-associations
+Servigrupo - Condomínios,Great,91.5,companies-services-and-associations
+Norte Condomínios,Good,77.3,companies-services-and-associations
+Sultanato,Good,62.2,companies-services-and-associations
+UNICEF Portugal,Great,81.8,companies-services-and-associations
+Sorriso Solidário,Good,68.4,companies-services-and-associations
+SUCH,Good,63.4,companies-services-and-associations
+Carneiro Pacheco e Associados ,Good,73.0,companies-services-and-associations
+Centro de Arbitragem do Sector Automóvel,Weak,30.9,companies-services-and-associations
+Luís Carvalho & David Roque,Weak,25.1,companies-services-and-associations
+Liqui.do,Reasonable,54.1,companies-services-and-associations
+Raize,Reasonable,45.0,companies-services-and-associations
+Lisgarante,Weak,32.5,companies-services-and-associations
+Doutor Finanças,Great,100.0,companies-services-and-associations
+Resolva a Sua Dívida,Great,88.7,companies-services-and-associations
+Crédito ValorOk,Great,82.8,companies-services-and-associations
+IAD Portugal,Good,78.2,companies-services-and-associations
+NORFIN,Reasonable,57.2,companies-services-and-associations
+Hall Portugal,Reasonable,44.5,companies-services-and-associations
+12avos,Good,65.8,companies-services-and-associations
+Calculalecrim,No data,,companies-services-and-associations
+LEXCONTA,No data,,companies-services-and-associations
+Partido CHEGA!,Weak,33.9,companies-services-and-associations
+PS,Unsatisfactory,16.5,companies-services-and-associations
+PSD,Unsatisfactory,11.5,companies-services-and-associations
+Servilusa,Unsatisfactory,11.5,companies-services-and-associations
+Espiga Mágica,No data,,companies-services-and-associations
+Patriarcado de Lisboa,No data,,companies-services-and-associations
+Dreambooks,Great,92.6,office-marketing-and-advertising
+Me Group Portugal,Great,92.6,office-marketing-and-advertising
+360Imprimir,Great,86.5,office-marketing-and-advertising
+Staples,Reasonable,58.2,office-marketing-and-advertising
+note!,Reasonable,56.2,office-marketing-and-advertising
+Pmelink.pt,Weak,39.0,office-marketing-and-advertising
+My Tinteiros,Good,72.3,office-marketing-and-advertising
+WebTinteiro,Good,70.7,office-marketing-and-advertising
+Tinteiros Low Cost,Good,66.1,office-marketing-and-advertising
+AUPPER,Reasonable,42.1,office-marketing-and-advertising
+Teleperformance,Weak,27.9,office-marketing-and-advertising
+Reditus,Unsatisfactory,9.2,office-marketing-and-advertising
+TLC Marketing,Good,67.7,office-marketing-and-advertising
+UON,Good,65.2,office-marketing-and-advertising
+FollowLike,Reasonable,57.2,office-marketing-and-advertising
+Kantar Worldpanel,Great,88.1,office-marketing-and-advertising
+PhD Trials,Good,70.0,office-marketing-and-advertising
+Netsonda,Good,68.3,office-marketing-and-advertising
+H3 Hambúrguer Gourmet,Great,92.8,food-and-drinks
+Go Natural,Good,64.2,food-and-drinks
+Vitaminas,Reasonable,58.6,food-and-drinks
+Domino's Pizza,Great,82.7,food-and-drinks
+Telepizza,Great,82.1,food-and-drinks
+Papa John’s Pizza,Good,72.8,food-and-drinks
+Delta Cafés,Good,73.4,food-and-drinks
+Delta Q,Good,71.3,food-and-drinks
+Dolce Gusto,Good,65.0,food-and-drinks
+EatTasty,Great,83.1,food-and-drinks
+A Marmita,Good,79.5,food-and-drinks
+BRING EAT!,Good,75.2,food-and-drinks
+Pão em casa,Good,78.9,food-and-drinks
+Pau de Canela,Good,73.2,food-and-drinks
+Hussel,Good,71.1,food-and-drinks
+Nobre,Great,90.6,food-and-drinks
+Saludães,Good,67.8,food-and-drinks
+Caçarola,Good,66.0,food-and-drinks
+Sumol+Compal,Great,84.5,food-and-drinks
+Pepsi,Weak,32.5,food-and-drinks
+Coca-Cola,Weak,22.4,food-and-drinks
+Super Bock,Weak,21.4,food-and-drinks
+Sagres,Unsatisfactory,10.3,food-and-drinks
+Cerveja +351,No data,,food-and-drinks
+Fonte Viva,Great,82.1,food-and-drinks
+Cafécop,Reasonable,56.6,food-and-drinks
+"Serdial Vending, S.A.",Reasonable,50.2,food-and-drinks
+Água de Luso,No data,,food-and-drinks
+Água das Pedras,No data,,food-and-drinks
+Vitalis,No data,,food-and-drinks
+Mimosa,Great,99.7,food-and-drinks
+Vigor,Great,81.2,food-and-drinks
+AGROS,Good,72.9,food-and-drinks
+TheFork,Good,69.1,food-and-drinks
+Zomato,Weak,34.0,food-and-drinks
+Vegaoo,Reasonable,41.8,food-and-drinks
+Gertal,Weak,31.4,food-and-drinks
+ITAU,Unsatisfactory,18.9,food-and-drinks
+Gourmet Da Vila,Good,67.6,food-and-drinks
+Wine House Portugal,Good,67.1,food-and-drinks
+Garrafeira Nacional,Good,64.5,food-and-drinks
+Sushi at Home,Great,96.8,food-and-drinks
+Home Sweet Sushi,Great,94.6,food-and-drinks
+Portugália Cervejaria,Great,80.8,food-and-drinks
+Euro Revenda,Weak,39.7,food-and-drinks
+Talhos Silau,Unsatisfactory,14.9,food-and-drinks
+Rota das Indias,Unsatisfactory,14.1,food-and-drinks
+Olá Gelados,Unsatisfactory,1.5,food-and-drinks
+Choco&Nut,No data,,food-and-drinks
+Weeel Frozen Yogurt,No data,,food-and-drinks
+Auchan,Good,76.3,hyper-and-supermarkets
+Continente,Good,73.6,hyper-and-supermarkets
+Mercadona,Great,89.1,hyper-and-supermarkets
+Pingo Doce,Great,84.9,hyper-and-supermarkets
+ALDI Portugal,Great,82.6,hyper-and-supermarkets
+Meu Super,Good,78.1,hyper-and-supermarkets
+Froiz,Good,67.3,hyper-and-supermarkets
+Supermercados Coviran,Reasonable,47.0,hyper-and-supermarkets
+Recheio,Good,79.9,hyper-and-supermarkets
+MAKRO,Unsatisfactory,17.7,hyper-and-supermarkets
+JMDB,No data,,hyper-and-supermarkets
+STP Airways,Good,69.2,hotels-travel-and-tourism
+Azores Airlines,Reasonable,53.7,hotels-travel-and-tourism
+Emirates,Reasonable,42.8,hotels-travel-and-tourism
+Dellasol,Great,94.7,hotels-travel-and-tourism
+Viagens El Corte Inglés,Great,89.8,hotels-travel-and-tourism
+Top Atlântico,Good,66.2,hotels-travel-and-tourism
+New Ellite Club,Good,67.6,hotels-travel-and-tourism
+Timeshare Revendas,Weak,28.4,hotels-travel-and-tourism
+Ponta Grande Vacation Club,Weak,21.3,hotels-travel-and-tourism
+Golden Club Cabanas,Reasonable,57.6,hotels-travel-and-tourism
+Hotel O Alambique de Ouro,Reasonable,43.4,hotels-travel-and-tourism
+Hotel Rali Viana,Reasonable,41.6,hotels-travel-and-tourism
+Dolfi1920,Reasonable,53.4,hotels-travel-and-tourism
+Samsonite,Reasonable,51.1,hotels-travel-and-tourism
+Império das Malas,Weak,20.5,hotels-travel-and-tourism
+Destinia,Great,86.0,hotels-travel-and-tourism
+iCliGo,Good,62.2,hotels-travel-and-tourism
+Flykube,Reasonable,50.0,hotels-travel-and-tourism
+Grupo Interpass,Good,66.7,hotels-travel-and-tourism
+Odisseias,Good,62.1,hotels-travel-and-tourism
+Goodlife,Reasonable,59.7,hotels-travel-and-tourism
+Hotéis Vila Galé,Reasonable,48.3,hotels-travel-and-tourism
+SANA Hotels,Reasonable,47.2,hotels-travel-and-tourism
+Luna Hoteis,Reasonable,46.5,hotels-travel-and-tourism
+Groundforce Portugal,Reasonable,49.6,hotels-travel-and-tourism
+Portway,Weak,26.4,hotels-travel-and-tourism
+ANA Aeroportos de Portugal,Unsatisfactory,4.4,hotels-travel-and-tourism
+Hotel da Montanha,Reasonable,45.0,hotels-travel-and-tourism
+Clube Praia da Rocha,Unsatisfactory,10.0,hotels-travel-and-tourism
+Smart Studios,Unsatisfactory,10.0,hotels-travel-and-tourism
+Ideal Casa,Weak,35.9,hotels-travel-and-tourism
+Costa Cruzeiros,Weak,31.6,hotels-travel-and-tourism
+Flytime,Unsatisfactory,17.4,hotels-travel-and-tourism
+Traventia,Good,67.4,hotels-travel-and-tourism
+Stayforlong,Reasonable,53.9,hotels-travel-and-tourism
+Uniplaces,Reasonable,52.7,hotels-travel-and-tourism
+Worten,Great,87.2,computer-technology-and-sound
+Radio Popular,Good,74.2,computer-technology-and-sound
+FNAC,Weak,21.1,computer-technology-and-sound
+Powerplanetonline,Great,86.2,computer-technology-and-sound
+iServices,Great,85.0,computer-technology-and-sound
+iStore,Great,82.9,computer-technology-and-sound
+Globaldata,Great,92.2,computer-technology-and-sound
+PcComponentes,Great,87.4,computer-technology-and-sound
+PCDIGA,Great,84.4,computer-technology-and-sound
+Aquário Electrónica,Great,85.8,computer-technology-and-sound
+Castro Electrónica,Great,85.8,computer-technology-and-sound
+Eradigital,Great,85.3,computer-technology-and-sound
+BQ,Reasonable,45.3,computer-technology-and-sound
+LG Electronics,Weak,32.7,computer-technology-and-sound
+HTC,Weak,27.2,computer-technology-and-sound
+DNS.pt,Great,83.8,computer-technology-and-sound
+Dominios.pt,Great,82.8,computer-technology-and-sound
+Hostinger,Great,80.8,computer-technology-and-sound
+Medion,Good,66.7,computer-technology-and-sound
+Insys,Reasonable,57.6,computer-technology-and-sound
+TP-LINK,Reasonable,55.6,computer-technology-and-sound
+Deccare - Sistemas de Informação,Great,82.0,computer-technology-and-sound
+YOU GET,Great,80.6,computer-technology-and-sound
+CSTech Portugal,Good,77.4,computer-technology-and-sound
+Pelicula de Vidro,Great,99.1,computer-technology-and-sound
+Lmobile,Great,96.5,computer-technology-and-sound
+La Casa de las Carcasas,Great,84.5,computer-technology-and-sound
+Press Start,Great,93.0,computer-technology-and-sound
+CeX,Great,81.6,computer-technology-and-sound
+Player,Good,73.5,computer-technology-and-sound
+Império Multimédia,Great,94.1,computer-technology-and-sound
+Infocomputer Portugal,Great,89.8,computer-technology-and-sound
+nanoChip,Great,82.4,computer-technology-and-sound
+RECONDICIONADOS.PT,Great,92.3,computer-technology-and-sound
+DVD.pt,Great,83.1,computer-technology-and-sound
+fmTEK - Informatica,Reasonable,52.6,computer-technology-and-sound
+Rhinocamera.pt,Good,62.0,computer-technology-and-sound
+Colorfoto,Unsatisfactory,15.6,computer-technology-and-sound
+Niobo,No data,,computer-technology-and-sound
+CDGO.COM,Good,79.9,computer-technology-and-sound
+Centro Sony,Reasonable,55.8,computer-technology-and-sound
+Thomann,Reasonable,51.1,computer-technology-and-sound
+Fujifilm,Good,79.2,computer-technology-and-sound
+SONY,Weak,21.3,computer-technology-and-sound
+Nikon,Unsatisfactory,12.4,computer-technology-and-sound
+OLX,Great,86.0,internet-sites-and-business
+CustoJusto.pt,Great,81.9,internet-sites-and-business
+Coisas.com,Reasonable,55.9,internet-sites-and-business
+Joom,Great,94.1,internet-sites-and-business
+LightInTheBox,Reasonable,46.0,internet-sites-and-business
+MiniIntheBox,Weak,35.8,internet-sites-and-business
+Eurocupon,Good,75.6,internet-sites-and-business
+TopVendas,Good,70.8,internet-sites-and-business
+Livoo,Good,62.4,internet-sites-and-business
+KuantoKusta,Great,84.1,internet-sites-and-business
+Shopping.pt,Good,78.1,internet-sites-and-business
+Dott,Good,67.0,internet-sites-and-business
+Mercadão,Great,93.4,internet-sites-and-business
+360 Hyper,Good,76.7,internet-sites-and-business
+Eupoupo.com,Weak,29.9,internet-sites-and-business
+Levas.me,Great,92.2,internet-sites-and-business
+BestPrice,Great,83.2,internet-sites-and-business
+iCare-Market,Great,80.8,internet-sites-and-business
+Comparamais,Great,83.3,internet-sites-and-business
+Selectra,Good,70.4,internet-sites-and-business
+ComparaJá.pt,Reasonable,55.0,internet-sites-and-business
+Standvirtual,Great,85.3,internet-sites-and-business
+Abmotor,No data,,internet-sites-and-business
+Imovirtual,Great,82.3,internet-sites-and-business
+Nolon Portugal,Weak,26.5,internet-sites-and-business
+MaisConsultores,Unsatisfactory,8.7,internet-sites-and-business
+Habitissimo,Good,67.7,internet-sites-and-business
+Vortal,Good,60.3,internet-sites-and-business
+Oscar,Reasonable,51.3,internet-sites-and-business
+LiveCareer,Reasonable,52.1,internet-sites-and-business
+Indeed,Unsatisfactory,19.0,internet-sites-and-business
+NetEmprego,Unsatisfactory,10.0,internet-sites-and-business
+RealFevr,Great,82.3,internet-sites-and-business
+Meetic,Reasonable,46.7,internet-sites-and-business
+Twoo,Reasonable,44.6,internet-sites-and-business
+Easy Marca,Good,69.8,internet-sites-and-business
+Certidao-nascimento-pt.org,Reasonable,58.8,internet-sites-and-business
+RegistoPredial.com,Weak,30.4,internet-sites-and-business
+Manheim,Great,81.7,internet-sites-and-business
+Oportunity Leilões,Good,75.6,internet-sites-and-business
+Bidding Leilões,Good,60.4,internet-sites-and-business
+Equifax,Great,81.8,internet-sites-and-business
+Portugalio,Reasonable,59.5,internet-sites-and-business
+eInforma,Weak,32.5,internet-sites-and-business
+HomyCasa,Great,82.0,furniture-decoration-and-appliances
+Vente-unique.pt,Great,80.8,furniture-decoration-and-appliances
+Conforama,Good,76.9,furniture-decoration-and-appliances
+D+ Sofás,Reasonable,58.1,furniture-decoration-and-appliances
+Golden Sofás,Reasonable,52.0,furniture-decoration-and-appliances
+Sofás Zone,Reasonable,51.1,furniture-decoration-and-appliances
+Flama,Great,90.0,furniture-decoration-and-appliances
+Rowenta,Great,82.9,furniture-decoration-and-appliances
+Rainbow Portugal,Good,68.3,furniture-decoration-and-appliances
+VidaXL,Great,87.2,furniture-decoration-and-appliances
+Hôma,Great,86.0,furniture-decoration-and-appliances
+Casika,Great,81.2,furniture-decoration-and-appliances
+Digital Place,Great,88.0,furniture-decoration-and-appliances
+Electro Pescador,Good,79.4,furniture-decoration-and-appliances
+STOCK in,Good,77.2,furniture-decoration-and-appliances
+Beliani,Great,81.1,furniture-decoration-and-appliances
+Cadeiraspro.pt,Good,79.4,furniture-decoration-and-appliances
+Kenay Home,Good,76.6,furniture-decoration-and-appliances
+Molaflex,Great,92.8,furniture-decoration-and-appliances
+Colchão Emma,Great,84.0,furniture-decoration-and-appliances
+O meu Colchão,Great,80.9,furniture-decoration-and-appliances
+Loja das Facas,Good,68.6,furniture-decoration-and-appliances
+Tupperware,Weak,23.5,furniture-decoration-and-appliances
+Bodum,Unsatisfactory,13.2,furniture-decoration-and-appliances
+Artys,Good,70.6,furniture-decoration-and-appliances
+Magenta Decoração,Reasonable,55.8,furniture-decoration-and-appliances
+Interdesign,Reasonable,49.5,furniture-decoration-and-appliances
+Capas & Capas,Great,86.8,furniture-decoration-and-appliances
+Sellone,Great,83.2,furniture-decoration-and-appliances
+Sensatoferta,Great,80.0,furniture-decoration-and-appliances
+Master Dental,Great,88.0,health
+Clínica Santa Madalena,Great,87.4,health
+Smile.Up,Great,81.1,health
+Óculos Para Todos,Great,98.5,health
+Grupo Optivisão,Great,89.9,health
+Opticenter,Great,86.8,health
+My Pharma Spot,Great,93.4,health
+Wayfarma,Great,86.3,health
+Wells,Good,79.4,health
+Cintramédica,Good,67.0,health
+Trofa Saúde,Reasonable,58.4,health
+Lusíadas Saúde,Reasonable,42.4,health
+Acústica Médica,Great,86.4,health
+Auditiv,Great,82.9,health
+O Meu Doutor Reabilitação Auditiva Portugal,Good,76.7,health
+Hospital de Lamego,Great,82.6,health
+Hospital Distrital de Chaves,Good,77.1,health
+Centro Hospitalar Trás os Montes e Alto Douro,Good,73.8,health
+Asminhaslentes.pt,Weak,38.7,health
+Alensa,Weak,33.9,health
+Visão e Visual,No data,,health
+Essilor,Good,69.8,health
+ZEISS Vision Care,Weak,34.4,health
+Shamir Optical,No data,,health
+Affidea Portugal,Great,91.2,health
+Clínica da Mente,Good,75.0,health
+Dr. Well's,Good,74.4,health
+Posturarte,Great,87.8,health
+Tempur,Good,73.1,health
+Quirumed,Good,70.6,health
+INEM,Reasonable,47.6,health
+Palvidas,Unsatisfactory,2.6,health
+Ambulâncias Força de Viver,Unsatisfactory,1.5,health
+Unilabs,Reasonable,49.0,health
+LabMED Saúde,Reasonable,42.8,health
+SYNLAB,Weak,24.8,health
+BebéCord,Good,75.6,health
+Bayer Portugal,Reasonable,40.3,health
+Pfizer Portugal,Weak,34.0,health
+Bebé4D,Good,77.3,health
+Radis,Weak,33.9,health
+CENEU,Weak,28.1,health
+Casa de Saúde São Mateus,Weak,35.6,health
+Residências Montepio,Weak,32.0,health
+Sanfil,Weak,28.3,health
+Centro de Saúde de Carnaxide,Reasonable,57.4,health
+Centro de Saúde de Sete Rios,Reasonable,43.3,health
+Centro de Saúde de Estremoz,Weak,36.8,health
+Quirónprevención,Good,78.5,health
+Acção Contínua,Good,76.5,health
+AtlantiCare,Good,73.0,health
+Óptica24,Good,70.4,health
+Fábrica de Óculos do Cacém,Good,64.1,health
+Edel-Optics.pt,Reasonable,49.5,health
+CMD Bolhão - Ortodontia,Good,61.5,health
+Centro Ortodôntico Avenida da Liberdade,Weak,33.8,health
+Clínica Dentária Egas Moniz,Weak,31.0,health
+Allianz,Good,76.7,auto-life-insurance and health-plans
+Zurich,Good,76.5,auto-life-insurance and health-plans
+Ageas Seguros,Good,76.1,auto-life-insurance and health-plans
+Seguro Directo,Good,71.2,auto-life-insurance and health-plans
+NSeguros,Reasonable,54.6,auto-life-insurance and health-plans
+Seguros Logo,Reasonable,51.8,auto-life-insurance and health-plans
+Saúde Prime,Great,81.6,auto-life-insurance and health-plans
+Agilcare,Great,80.2,auto-life-insurance and health-plans
+Sorriso Mais,Great,80.1,auto-life-insurance and health-plans
+Médis,Great,87.6,auto-life-insurance and health-plans
+MGEN Saúde,Great,86.7,auto-life-insurance and health-plans
+AdvanceCare,Good,72.2,auto-life-insurance and health-plans
+April,Great,80.4,auto-life-insurance and health-plans
+Real Vida Seguros,Good,67.2,auto-life-insurance and health-plans
+Aegon Santander Portugal,Good,64.0,auto-life-insurance and health-plans
+SPB Ibérica,Great,82.4,auto-life-insurance and health-plans
+SNG Garantia Automóvel,Good,74.1,auto-life-insurance and health-plans
+GTS Garantia Automóvel,Good,61.1,auto-life-insurance and health-plans
+Solera Portugal,Reasonable,47.8,auto-life-insurance and health-plans
+DEKRA CLAIMS,Weak,26.5,auto-life-insurance and health-plans
+Dualperi,Weak,20.8,auto-life-insurance and health-plans
+Câmara Municipal da Nazaré,Great,90.9,services-and-public-administration
+Câmara Municipal de Alcochete,Great,81.2,services-and-public-administration
+Câmara Municipal de Lagos,Good,74.6,services-and-public-administration
+Imprensa Nacional Casa da Moeda,Great,91.7,services-and-public-administration
+IEFP,Great,89.2,services-and-public-administration
+IMT,Great,82.0,services-and-public-administration
+ADSE,Good,62.2,services-and-public-administration
+Caixa Geral de Aposentações,Weak,25.9,services-and-public-administration
+Centro Nacional de Pensões,Unsatisfactory,16.9,services-and-public-administration
+Autoridade Tributária e Aduaneira,Great,90.8,services-and-public-administration
+DGEG,Great,88.0,services-and-public-administration
+ANSR,Great,86.7,services-and-public-administration
+EMEM,Great,83.3,services-and-public-administration
+MatosinhosHabit,Great,81.8,services-and-public-administration
+Ágora,Reasonable,46.4,services-and-public-administration
+SEF,Unsatisfactory,16.8,services-and-public-administration
+Polícia Municipal do Porto,Unsatisfactory,14.6,services-and-public-administration
+PSP,Unsatisfactory,12.2,services-and-public-administration
+UBER,Reasonable,43.4,public-transport-hire-and-drive
+ANTRAL,Weak,37.3,public-transport-hire-and-drive
+FREE NOW,Weak,35.9,public-transport-hire-and-drive
+Galp,Great,88.0,public-transport-hire-and-drive
+Repsol,Good,79.5,public-transport-hire-and-drive
+Prio Energy,Good,75.0,public-transport-hire-and-drive
+SMTUC,Great,82.4,public-transport-hire-and-drive
+STCP,Good,69.1,public-transport-hire-and-drive
+TST - Transportes Sul do Tejo,Good,64.4,public-transport-hire-and-drive
+Metro de Lisboa,Reasonable,40.9,public-transport-hire-and-drive
+Metro do Porto,Weak,33.7,public-transport-hire-and-drive
+Refer,Weak,31.0,public-transport-hire-and-drive
+Discovercars.com,Good,77.3,public-transport-hire-and-drive
+BeRent - Rent a Car,Good,76.8,public-transport-hire-and-drive
+Sixt,Good,76.3,public-transport-hire-and-drive
+Ubirider,Great,88.6,public-transport-hire-and-drive
+Andante,Good,71.9,public-transport-hire-and-drive
+Navegante,Unsatisfactory,10.0,public-transport-hire-and-drive
+Globalvia,Good,62.9,public-transport-hire-and-drive
+Scutvias,Reasonable,54.2,public-transport-hire-and-drive
+Portvias,Weak,35.7,public-transport-hire-and-drive
+Busy Transportes,No data,,public-transport-hire-and-drive
+Carrinho de Esferas,No data,,public-transport-hire-and-drive
+Rodinhas,No data,,public-transport-hire-and-drive
+Rodoviária do Lis,Good,67.7,public-transport-hire-and-drive
+Yellow Bus / Aerobus,Good,67.0,public-transport-hire-and-drive
+FlixBus,Reasonable,57.1,public-transport-hire-and-drive
+Jump,Good,74.8,public-transport-hire-and-drive
+ACCIONA Motosharing,Weak,33.8,public-transport-hire-and-drive
+Bird,Unsatisfactory,10.8,public-transport-hire-and-drive
+Escolas de Condução Bordalo Norte,Good,69.8,public-transport-hire-and-drive
+Segurança Máxima - Escolas de Condução,Weak,32.3,public-transport-hire-and-drive
+Escola de Condução Radical,Weak,27.8,public-transport-hire-and-drive
+Loures Parque,Reasonable,55.1,public-transport-hire-and-drive
+Datarede,Reasonable,41.6,public-transport-hire-and-drive
+CPE - Companhia de Parques de Estacionamento,Weak,35.5,public-transport-hire-and-drive
+Atlantic Ferries,Weak,21.8,public-transport-hire-and-drive
+Transtejo,Unsatisfactory,9.2,public-transport-hire-and-drive
+Rentdouro,Unsatisfactory,1.5,public-transport-hire-and-drive

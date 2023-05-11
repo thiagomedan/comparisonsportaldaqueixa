@@ -1,0 +1,731 @@
+Empresa,Descrição,Nota,Categoria
+Mazda,Óptimo,83.1,automoveis-motas-e-transito
+Volvo,Bom,78.6,automoveis-motas-e-transito
+Renault,Bom,69.3,automoveis-motas-e-transito
+Oficinas MForce,Óptimo,80.7,automoveis-motas-e-transito
+Norauto,Bom,76.8,automoveis-motas-e-transito
+Gocarmat,Bom,74.9,automoveis-motas-e-transito
+Vesauto,Óptimo,83.4,automoveis-motas-e-transito
+JAPautomotive,Bom,79.3,automoveis-motas-e-transito
+Filinto Mota,Bom,65.6,automoveis-motas-e-transito
+Glassdrive,Óptimo,88.8,automoveis-motas-e-transito
+Carglass,Óptimo,86.3,automoveis-motas-e-transito
+ExpressGlass,Bom,66.5,automoveis-motas-e-transito
+Bkstickers,Óptimo,88.2,automoveis-motas-e-transito
+Eurobikes,Fraco,36.1,automoveis-motas-e-transito
+Bikeinn,Fraco,31.4,automoveis-motas-e-transito
+Endcar,Bom,75.1,automoveis-motas-e-transito
+Fidelidade Car Service,Bom,61.5,automoveis-motas-e-transito
+PKE Automotive,Fraco,32.3,automoveis-motas-e-transito
+Stand Tinocar,Excelente,90.3,automoveis-motas-e-transito
+CARSPOT,Óptimo,81.2,automoveis-motas-e-transito
+Car4you,Bom,71.5,automoveis-motas-e-transito
+AutoParts Logistic,Excelente,95.3,automoveis-motas-e-transito
+UniversAuto,Óptimo,80.6,automoveis-motas-e-transito
+Texoleo,Bom,73.8,automoveis-motas-e-transito
+LeasePlan,Bom,72.3,automoveis-motas-e-transito
+KINTO,Razoável,58.8,automoveis-motas-e-transito
+ALD Automotive,Razoável,42,automoveis-motas-e-transito
+AMGCar,Razoável,46.2,automoveis-motas-e-transito
+Confiauto,Fraco,20.9,automoveis-motas-e-transito
+JOP,Insatisfatório,15.4,automoveis-motas-e-transito
+Benecar – Cidade do Automóvel,Excelente,99,automoveis-motas-e-transito
+Matrizauto,Óptimo,88.8,automoveis-motas-e-transito
+CarPlus,Bom,75.5,automoveis-motas-e-transito
+Bridgestone Portugal,Fraco,20.3,automoveis-motas-e-transito
+Michelin,Insatisfatório,18.5,automoveis-motas-e-transito
+Continental Pneus,Insatisfatório,1.5,automoveis-motas-e-transito
+Dekra Portugal,Razoável,49,automoveis-motas-e-transito
+TAVFER,Fraco,23.1,automoveis-motas-e-transito
+Controlauto,Fraco,20.8,automoveis-motas-e-transito
+Antero Motos,Razoável,57.8,automoveis-motas-e-transito
+Santomar,Razoável,53.5,automoveis-motas-e-transito
+Caparica Peles,Razoável,53.1,automoveis-motas-e-transito
+Pneus Lider,Bom,75.6,automoveis-motas-e-transito
+Pneus Online,Fraco,36.8,automoveis-motas-e-transito
+Sp Pneus,Sem dados,N/A,automoveis-motas-e-transito
+Starwash,Razoável,42.6,automoveis-motas-e-transito
+Elefante Azul,Fraco,33.3,automoveis-motas-e-transito
+Newash,Insatisfatório,9.8,automoveis-motas-e-transito
+Banco Montepio,Óptimo,82.7,banca-seguros-e-imobiliario
+Banco BNI Europa,Óptimo,80.5,banca-seguros-e-imobiliario
+ActivoBank,Bom,79.2,banca-seguros-e-imobiliario
+Mobilize Financial Services – Portugal,Óptimo,87,banca-seguros-e-imobiliario
+Oney,Óptimo,86.8,banca-seguros-e-imobiliario
+Banco Credibom,Óptimo,86.7,banca-seguros-e-imobiliario
+IVAucher,Excelente,92.9,banca-seguros-e-imobiliario
+Easypay,Óptimo,86.5,banca-seguros-e-imobiliario
+IFTHENPAY,Bom,72.2,banca-seguros-e-imobiliario
+Universo,Óptimo,82.3,banca-seguros-e-imobiliario
+WiZink,Bom,72.8,banca-seguros-e-imobiliario
+Cartão El Corte Inglés,Razoável,50.7,banca-seguros-e-imobiliario
+Euroticket Refeição,Óptimo,88.5,banca-seguros-e-imobiliario
+Sodexo,Óptimo,87.8,banca-seguros-e-imobiliario
+Ticket Restaurant,Fraco,34.6,banca-seguros-e-imobiliario
+MB WAY,Óptimo,89.2,banca-seguros-e-imobiliario
+OpenBank,Bom,71.5,banca-seguros-e-imobiliario
+Moey,Razoável,50,banca-seguros-e-imobiliario
+Payshop,Óptimo,89.9,banca-seguros-e-imobiliario
+SaltPay,Óptimo,88.7,banca-seguros-e-imobiliario
+SIBS,Óptimo,88.5,banca-seguros-e-imobiliario
+InvestFW,Bom,78.8,banca-seguros-e-imobiliario
+OBRinvest,Razoável,57.7,banca-seguros-e-imobiliario
+LiquidityX,Razoável,44.2,banca-seguros-e-imobiliario
+Cartão Dá,Excelente,92.9,banca-seguros-e-imobiliario
+Cyrana,Razoável,41.4,banca-seguros-e-imobiliario
+ViaBuy,Insatisfatório,17,banca-seguros-e-imobiliario
+Munditransfers,Fraco,28.8,banca-seguros-e-imobiliario
+Skrill,Fraco,25.3,banca-seguros-e-imobiliario
+Wise,Insatisfatório,16.9,banca-seguros-e-imobiliario
+Multicert,Sem dados,N/A,banca-seguros-e-imobiliario
+SEPHORA,Excelente,93.8,beleza-e-bem-estar
+Perfumeria Primor,Razoável,59.2,beleza-e-bem-estar
+Perfumes & Companhia,Razoável,57.9,beleza-e-bem-estar
+TummyTox,Excelente,90.4,beleza-e-bem-estar
+Slimjoy Portugal,Bom,79.2,beleza-e-bem-estar
+Nutribio,Bom,78.4,beleza-e-bem-estar
+Be and Care,Óptimo,86.2,beleza-e-bem-estar
+L'Oréal Paris,Óptimo,81.2,beleza-e-bem-estar
+Veet,Bom,62.8,beleza-e-bem-estar
+DepilConcept,Razoável,58.3,beleza-e-bem-estar
+Maria Bonita,Razoável,45.9,beleza-e-bem-estar
+DepilTime,Razoável,45.1,beleza-e-bem-estar
+Team Transformerz,Óptimo,81.6,beleza-e-bem-estar
+Nutribalance,Bom,67.6,beleza-e-bem-estar
+DietEspana.com,Sem dados,N/A,beleza-e-bem-estar
+SANJAM Cabeleireiros,Razoável,59.4,beleza-e-bem-estar
+Cidália Cabeleireios,Fraco,37.6,beleza-e-bem-estar
+Inês Pereira Cabeleireiros,Fraco,26.3,beleza-e-bem-estar
+Doces Aromas,Óptimo,83.4,beleza-e-bem-estar
+Perfumes.pt,Bom,76.5,beleza-e-bem-estar
+Notino,Razoável,53.4,beleza-e-bem-estar
+Renova,Bom,69,beleza-e-bem-estar
+CHEIRALFAZEMA,Razoável,51.1,beleza-e-bem-estar
+MyEcoPads,Razoável,47.2,beleza-e-bem-estar
+Official Alta Cosmética,Óptimo,89.3,beleza-e-bem-estar
+Salontotal.pt,Bom,72.3,beleza-e-bem-estar
+Loja do Shampoo,Bom,68.9,beleza-e-bem-estar
+Clinicas Bodyscience,Bom,74,beleza-e-bem-estar
+Body Concept,Bom,65.1,beleza-e-bem-estar
+NB Clinic,Razoável,44,beleza-e-bem-estar
+Insparya,Excelente,97.9,beleza-e-bem-estar
+Medicapilar,Excelente,90.3,beleza-e-bem-estar
+CM2C,Insatisfatório,1.5,beleza-e-bem-estar
+Rostus - Agência de Modelos,Razoável,48.8,beleza-e-bem-estar
+Space Milan Models,Insatisfatório,16,beleza-e-bem-estar
+Espaço Fama,Insatisfatório,10,beleza-e-bem-estar
+Securitas Direct,Óptimo,81.1,casa-alarmes-e-limpeza
+PROSEGUR ALARMS,Bom,78.8,casa-alarmes-e-limpeza
+Valguard,Sem dados,N/A,casa-alarmes-e-limpeza
+Leroy Merlin,Bom,68.7,casa-alarmes-e-limpeza
+Armazéns Reis,Bom,66.1,casa-alarmes-e-limpeza
+Bricomarché,Bom,61.5,casa-alarmes-e-limpeza
+Chaves do Areeiro,Fraco,31.8,casa-alarmes-e-limpeza
+Chaviarte,Fraco,29.6,casa-alarmes-e-limpeza
+Piquetes.pt,Insatisfatório,18.4,casa-alarmes-e-limpeza
+Vileda,Razoável,54.3,casa-alarmes-e-limpeza
+Finish,Razoável,40.3,casa-alarmes-e-limpeza
+Fairy,Insatisfatório,14.1,casa-alarmes-e-limpeza
+COPS,Excelente,99,casa-alarmes-e-limpeza
+Strong Charon,Excelente,91.3,casa-alarmes-e-limpeza
+Prosegur,Óptimo,86.2,casa-alarmes-e-limpeza
+Ariston Thermo,Bom,72.4,casa-alarmes-e-limpeza
+Solzaima,Razoável,59.5,casa-alarmes-e-limpeza
+Junkers,Insatisfatório,18.6,casa-alarmes-e-limpeza
+Urbicult,Bom,79,casa-alarmes-e-limpeza
+Planeta Huerto,Bom,78,casa-alarmes-e-limpeza
+Cactos e Suculentas Portugal,Bom,73.2,casa-alarmes-e-limpeza
+Ecovolt - Energias Renováveis,Bom,72.8,casa-alarmes-e-limpeza
+Isométrica,Bom,71.4,casa-alarmes-e-limpeza
+EAF Serviço Técnico Nacional,Bom,60.4,casa-alarmes-e-limpeza
+Woosh,Fraco,29.6,casa-alarmes-e-limpeza
+5àSec,Fraco,29.4,casa-alarmes-e-limpeza
+La Wash,Fraco,24,casa-alarmes-e-limpeza
+Servitis,Razoável,59.4,casa-alarmes-e-limpeza
+Multi24Serviços,Razoável,51.5,casa-alarmes-e-limpeza
+RGO Reparações 24 horas,Razoável,50.3,casa-alarmes-e-limpeza
+Iberlim,Óptimo,86.1,casa-alarmes-e-limpeza
+House Shine,Bom,68.3,casa-alarmes-e-limpeza
+Cleancare,Fraco,35.4,casa-alarmes-e-limpeza
+Solverde.pt,Óptimo,86.9,casinos-e-casas-de-apostas
+Moosh,Óptimo,86.6,casinos-e-casas-de-apostas
+Jogos Santa Casa,Óptimo,82,casinos-e-casas-de-apostas
+Leon,Excelente,92.8,casinos-e-casas-de-apostas
+Bettilt,Óptimo,82.2,casinos-e-casas-de-apostas
+Roku Casino,Fraco,32.7,casinos-e-casas-de-apostas
+Grupo Solverde,Insatisfatório,19.4,casinos-e-casas-de-apostas
+Casino Figueira,Sem dados,N/A,casinos-e-casas-de-apostas
+Casino Lisboa,Sem dados,N/A,casinos-e-casas-de-apostas
+Apostas Prognosticos,Fraco,31.3,casinos-e-casas-de-apostas
+Feeling Lucky,Sem dados,N/A,casinos-e-casas-de-apostas
+Odds.dog,Sem dados,N/A,casinos-e-casas-de-apostas
+NOS,Óptimo,86.9,comunicacoes-tv-e-media
+MEO,Óptimo,85.5,comunicacoes-tv-e-media
+Nowo,Bom,72.8,comunicacoes-tv-e-media
+OPTO,Óptimo,86.1,comunicacoes-tv-e-media
+TDT,Óptimo,84.5,comunicacoes-tv-e-media
+HBO,Fraco,28.9,comunicacoes-tv-e-media
+WTF,Excelente,91.8,comunicacoes-tv-e-media
+Moche,Óptimo,86.6,comunicacoes-tv-e-media
+WOO,Óptimo,85.3,comunicacoes-tv-e-media
+ELEVEN,Bom,76.9,comunicacoes-tv-e-media
+SIC,Bom,72.5,comunicacoes-tv-e-media
+TV Globo Portugal,Fraco,37.6,comunicacoes-tv-e-media
+Mozzi.com,Razoável,44.3,comunicacoes-tv-e-media
+Mobile Apps,Razoável,41.2,comunicacoes-tv-e-media
+Cozinha Fácil,Fraco,36.6,comunicacoes-tv-e-media
+Sapo,Óptimo,84.3,comunicacoes-tv-e-media
+Notícias ao Minuto,Bom,60.8,comunicacoes-tv-e-media
+Observador,Razoável,42.5,comunicacoes-tv-e-media
+Antena 1,Insatisfatório,15.3,comunicacoes-tv-e-media
+RFM,Insatisfatório,11.2,comunicacoes-tv-e-media
+TSF - Rádio Notícias,Sem dados,N/A,comunicacoes-tv-e-media
+Incomunicado,Óptimo,84.5,comunicacoes-tv-e-media
+dstelecom,Bom,70.9,comunicacoes-tv-e-media
+Mobile World,Bom,67.7,comunicacoes-tv-e-media
+Querido Mudei a Casa Obras,Óptimo,81.1,construcao-industria-e-manufactura
+NaturaLar,Óptimo,80.7,construcao-industria-e-manufactura
+MELOM Obras,Bom,77.7,construcao-industria-e-manufactura
+Orona,Bom,71.9,construcao-industria-e-manufactura
+Schindler,Fraco,38.8,construcao-industria-e-manufactura
+Thyssenkrupp,Fraco,25.5,construcao-industria-e-manufactura
+Barbot,Bom,66.8,construcao-industria-e-manufactura
+Sollac Tintas,Sem dados,N/A,construcao-industria-e-manufactura
+TSL,Sem dados,N/A,construcao-industria-e-manufactura
+"Pioneiros & Virtuosos, Unipessoal Lda",Razoável,46.5,construcao-industria-e-manufactura
+ITS – Indústria Transformadora de Subprodutos,Sem dados,N/A,construcao-industria-e-manufactura
+SEGURANÇA TOTAL,Sem dados,N/A,construcao-industria-e-manufactura
+Radar do Tempo,Bom,69,construcao-industria-e-manufactura
+Tbs Piscinas,Razoável,57.3,construcao-industria-e-manufactura
+PiscinasDesmontaveis.pt,Razoável,45.3,construcao-industria-e-manufactura
+CME,Razoável,53.6,construcao-industria-e-manufactura
+"Ideias Simples, Lda",Fraco,34.5,construcao-industria-e-manufactura
+ERI Engenharia,Fraco,31,construcao-industria-e-manufactura
+FT Shopping,Excelente,90.6,construcao-industria-e-manufactura
+Loja das Peças,Óptimo,80,construcao-industria-e-manufactura
+Barcelona LED Portugal,Razoável,46,construcao-industria-e-manufactura
+Caixiave,Óptimo,81.8,construcao-industria-e-manufactura
+Nuno Miguel Pereira Alumínios,Bom,62,construcao-industria-e-manufactura
+Velux Portugal,Fraco,37.1,construcao-industria-e-manufactura
+Utilmáquina,Fraco,31.5,construcao-industria-e-manufactura
+Vitrum Cortinas de Vidro,Insatisfatório,15.6,construcao-industria-e-manufactura
+Espirito Rebelde Embalagens,Insatisfatório,14,construcao-industria-e-manufactura
+Ferramentas.pt,Bom,77.7,construcao-industria-e-manufactura
+Casa Peixoto,Bom,68.4,construcao-industria-e-manufactura
+Obras 360,Bom,67.2,construcao-industria-e-manufactura
+Resinorte,Razoável,41.3,construcao-industria-e-manufactura
+Dias Cordiais,Insatisfatório,11.5,construcao-industria-e-manufactura
+Pellets Power 2,Insatisfatório,10,construcao-industria-e-manufactura
+Jaime Humberto Magalhães,Razoável,46,construcao-industria-e-manufactura
+Fast Serralheria,Insatisfatório,16.4,construcao-industria-e-manufactura
+RODI,Sem dados,N/A,construcao-industria-e-manufactura
+NACEX,Excelente,91.3,transporte-e-logisticas
+Correos Express Portugal,Óptimo,89.7,transporte-e-logisticas
+Vasp,Óptimo,87.2,transporte-e-logisticas
+Premium Green Mail,Bom,79.2,transporte-e-logisticas
+CTT,Bom,75.5,transporte-e-logisticas
+CityPOST,Sem dados,N/A,transporte-e-logisticas
+Expresso 24,Óptimo,89.9,transporte-e-logisticas
+Via Directa,Óptimo,82.1,transporte-e-logisticas
+Envialia,Fraco,27.5,transporte-e-logisticas
+SantoseVale,Excelente,100,transporte-e-logisticas
+Transnautica,Óptimo,88.3,transporte-e-logisticas
+Kargo,Bom,77.8,transporte-e-logisticas
+TNB Expresso,Bom,69.9,transporte-e-logisticas
+Mudanças Paulo Silva,Razoável,55.7,transporte-e-logisticas
+Pack and Go,Razoável,50.9,transporte-e-logisticas
+Skynet,Bom,77.1,transporte-e-logisticas
+CTT Express,Bom,74.8,transporte-e-logisticas
+UPS,Bom,65.3,transporte-e-logisticas
+APDL,Bom,68.3,transporte-e-logisticas
+Docapesca,Insatisfatório,10,transporte-e-logisticas
+APRAM,Sem dados,N/A,transporte-e-logisticas
+Círculo de Leitores,Razoável,55,cultura-lazer-e-diversao
+Wook,Razoável,51.7,cultura-lazer-e-diversao
+Bertrand Livreiros,Razoável,50.3,cultura-lazer-e-diversao
+Watchilds,Óptimo,87.2,cultura-lazer-e-diversao
+Burago.pt,Óptimo,84.3,cultura-lazer-e-diversao
+Science4you,Óptimo,81.8,cultura-lazer-e-diversao
+Feijão Verde Fun Park,Fraco,37.3,cultura-lazer-e-diversao
+Zmar,Fraco,32.4,cultura-lazer-e-diversao
+Oceanário de Lisboa,Fraco,23.1,cultura-lazer-e-diversao
+See Tickets,Óptimo,81.3,cultura-lazer-e-diversao
+3cket,Razoável,50.1,cultura-lazer-e-diversao
+StubHub,Razoável,43.1,cultura-lazer-e-diversao
+Eskada Club,Fraco,30.5,cultura-lazer-e-diversao
+Lust in Rio,Insatisfatório,1.5,cultura-lazer-e-diversao
+Via Rápida,Insatisfatório,1.5,cultura-lazer-e-diversao
+Salvat Editores,Bom,63.4,cultura-lazer-e-diversao
+Ediclube,Bom,60.4,cultura-lazer-e-diversao
+Cordel de Prata,Bom,60.3,cultura-lazer-e-diversao
+Campo Pequeno,Bom,68.9,cultura-lazer-e-diversao
+FIL - Feira Internacional de Lisboa,Razoável,47.3,cultura-lazer-e-diversao
+Coliseu dos Recreios,Insatisfatório,10,cultura-lazer-e-diversao
+IQOS,Bom,79.2,cultura-lazer-e-diversao
+Cultura do Tabaco,Bom,77.1,cultura-lazer-e-diversao
+Tabacaria Rita Dourado,Insatisfatório,10,cultura-lazer-e-diversao
+Fotosport,Razoável,41.5,cultura-lazer-e-diversao
+Mi Amore,Fraco,27.5,cultura-lazer-e-diversao
+O Nosso Casamento,Fraco,23.4,cultura-lazer-e-diversao
+UCI Cinemas,Bom,75.9,cultura-lazer-e-diversao
+CinemaCity,Bom,70.7,cultura-lazer-e-diversao
+Filmin,Fraco,36.3,cultura-lazer-e-diversao
+LX Music,Bom,64.7,cultura-lazer-e-diversao
+Short Connection,Bom,61.5,cultura-lazer-e-diversao
+Kalorama,Bom,60.3,cultura-lazer-e-diversao
+Holmes Place,Óptimo,81.7,desporto-ginasios-e-clubes
+Fitness UP,Óptimo,81,desporto-ginasios-e-clubes
+Solinca,Bom,77.9,desporto-ginasios-e-clubes
+Decathlon,Razoável,54.2,desporto-ginasios-e-clubes
+Sport Zone,Razoável,52.3,desporto-ginasios-e-clubes
+Lpoint,Razoável,43,desporto-ginasios-e-clubes
+Prozis,Excelente,92.6,desporto-ginasios-e-clubes
+EU NUTRITION,Óptimo,88.3,desporto-ginasios-e-clubes
+MySuplementos,Óptimo,86.8,desporto-ginasios-e-clubes
+Deeply,Razoável,55.6,desporto-ginasios-e-clubes
+Berg Outdoor,Razoável,47.7,desporto-ginasios-e-clubes
+Asics,Fraco,22.5,desporto-ginasios-e-clubes
+Team Macau,Excelente,99.1,desporto-ginasios-e-clubes
+PumpAddicted,Bom,69.4,desporto-ginasios-e-clubes
+Time to Fitness 24,Bom,67.8,desporto-ginasios-e-clubes
+Epda,Excelente,92.7,desporto-ginasios-e-clubes
+Loja Verde Online,Óptimo,82.2,desporto-ginasios-e-clubes
+PieroStore,Bom,72.3,desporto-ginasios-e-clubes
+Futebol Clube do Porto,Fraco,34.5,desporto-ginasios-e-clubes
+Sport Lisboa e Benfica,Insatisfatório,14.9,desporto-ginasios-e-clubes
+Sporting Clube de Portugal,Insatisfatório,10,desporto-ginasios-e-clubes
+Hidromania,Excelente,91,desporto-ginasios-e-clubes
+BOXPT Equipment,Óptimo,82.3,desporto-ginasios-e-clubes
+Fitnessdigital,Óptimo,81.1,desporto-ginasios-e-clubes
+Federação Portuguesa de Ciclismo,Fraco,39,desporto-ginasios-e-clubes
+FPF - Federação Portuguesa de Futebol,Fraco,29.3,desporto-ginasios-e-clubes
+Liga Portugal,Insatisfatório,16.5,desporto-ginasios-e-clubes
+Skydive Maia,Bom,70.9,desporto-ginasios-e-clubes
+Skydive Porto,Bom,68.8,desporto-ginasios-e-clubes
+GlobalSport,Razoável,53.3,desporto-ginasios-e-clubes
+Centro Educacional de Lisboa,Excelente,90.7,educacao-formacao-e-emprego
+Esneca,Excelente,90,educacao-formacao-e-emprego
+Do It Better,Óptimo,89.6,educacao-formacao-e-emprego
+Talenter,Excelente,91.7,educacao-formacao-e-emprego
+Adecco,Óptimo,88.4,educacao-formacao-e-emprego
+Manpower,Bom,76.4,educacao-formacao-e-emprego
+NOVA FCSH,Óptimo,84.1,educacao-formacao-e-emprego
+Universidade de Coimbra,Bom,66.6,educacao-formacao-e-emprego
+Faculdade de Arquitetura UT Lisboa,Razoável,54.3,educacao-formacao-e-emprego
+British Council Portugal,Razoável,50.5,educacao-formacao-e-emprego
+Wall Street English,Razoável,49.4,educacao-formacao-e-emprego
+Centro Europeu de Línguas,Fraco,36.8,educacao-formacao-e-emprego
+Externato do Parque,Sem dados,N/A,educacao-formacao-e-emprego
+Externato e Infantário Nobel,Sem dados,N/A,educacao-formacao-e-emprego
+Colégio Guadalupe,Sem dados,N/A,educacao-formacao-e-emprego
+Grande Sábio,Sem dados,N/A,educacao-formacao-e-emprego
+Génios e Provérbios,Sem dados,N/A,educacao-formacao-e-emprego
+Centro de Estudos Cuca Matuta,Sem dados,N/A,educacao-formacao-e-emprego
+OnlineCurriculo.com,Fraco,30.3,educacao-formacao-e-emprego
+Online CV,Fraco,24.3,educacao-formacao-e-emprego
+CVBuilder,Insatisfatório,5.8,educacao-formacao-e-emprego
+Jardim de Infância Nossa Senhora de Fátima,Sem dados,N/A,educacao-formacao-e-emprego
+O Teu Filho,Sem dados,N/A,educacao-formacao-e-emprego
+Centro Social da Paróquia de Nogueira,Sem dados,N/A,educacao-formacao-e-emprego
+Indebt,Óptimo,88.5,empresas-servicos-e-associacoes
+Recactiv,Óptimo,82.9,empresas-servicos-e-associacoes
+Reconfinance,Bom,68.7,empresas-servicos-e-associacoes
+CENTURY 21 Portugal,Óptimo,80.8,empresas-servicos-e-associacoes
+Remax,Bom,79.5,empresas-servicos-e-associacoes
+KW Portugal,Razoável,45.5,empresas-servicos-e-associacoes
+Servigrupo - Condomínios,Excelente,91.5,empresas-servicos-e-associacoes
+Norte Condomínios,Bom,77.3,empresas-servicos-e-associacoes
+Sultanato,Bom,62.2,empresas-servicos-e-associacoes
+UNICEF Portugal,Óptimo,81.8,empresas-servicos-e-associacoes
+Sorriso Solidário,Bom,68.4,empresas-servicos-e-associacoes
+SUCH,Bom,63.4,empresas-servicos-e-associacoes
+Carneiro Pacheco e Associados ,Bom,73,empresas-servicos-e-associacoes
+Centro de Arbitragem do Sector Automóvel,Fraco,30.9,empresas-servicos-e-associacoes
+Luís Carvalho & David Roque,Fraco,25.1,empresas-servicos-e-associacoes
+Liqui.do,Razoável,54.1,empresas-servicos-e-associacoes
+Raize,Razoável,45,empresas-servicos-e-associacoes
+Lisgarante,Fraco,32.5,empresas-servicos-e-associacoes
+Doutor Finanças,Excelente,100,empresas-servicos-e-associacoes
+Resolva a Sua Dívida,Óptimo,88.7,empresas-servicos-e-associacoes
+Crédito ValorOk,Óptimo,82.8,empresas-servicos-e-associacoes
+IAD Portugal,Bom,78.2,empresas-servicos-e-associacoes
+NORFIN,Razoável,57.2,empresas-servicos-e-associacoes
+Hall Portugal,Razoável,44.5,empresas-servicos-e-associacoes
+12avos,Bom,65.8,empresas-servicos-e-associacoes
+Calculalecrim,Sem dados,N/A,empresas-servicos-e-associacoes
+LEXCONTA,Sem dados,N/A,empresas-servicos-e-associacoes
+Partido CHEGA!,Fraco,33.9,empresas-servicos-e-associacoes
+PS,Insatisfatório,16.5,empresas-servicos-e-associacoes
+PSD,Insatisfatório,11.5,empresas-servicos-e-associacoes
+Servilusa,Insatisfatório,11.5,empresas-servicos-e-associacoes
+Espiga Mágica,Sem dados,N/A,empresas-servicos-e-associacoes
+Patriarcado de Lisboa,Sem dados,N/A,empresas-servicos-e-associacoes
+Dreambooks,Excelente,92.6,escritorio-marketing-e-publicidade
+Me Group Portugal,Excelente,92.6,escritorio-marketing-e-publicidade
+360Imprimir,Óptimo,86.5,escritorio-marketing-e-publicidade
+Staples,Razoável,58.2,escritorio-marketing-e-publicidade
+note!,Razoável,56.2,escritorio-marketing-e-publicidade
+Pmelink.pt,Fraco,39,escritorio-marketing-e-publicidade
+My Tinteiros,Bom,72.3,escritorio-marketing-e-publicidade
+WebTinteiro,Bom,70.7,escritorio-marketing-e-publicidade
+Tinteiros Low Cost,Bom,66.1,escritorio-marketing-e-publicidade
+AUPPER,Razoável,42.1,escritorio-marketing-e-publicidade
+Teleperformance,Fraco,27.9,escritorio-marketing-e-publicidade
+Reditus,Insatisfatório,9.2,escritorio-marketing-e-publicidade
+TLC Marketing,Bom,67.7,escritorio-marketing-e-publicidade
+UON,Bom,65.2,escritorio-marketing-e-publicidade
+FollowLike,Razoável,57.2,escritorio-marketing-e-publicidade
+Kantar Worldpanel,Óptimo,88.1,escritorio-marketing-e-publicidade
+PhD Trials,Bom,70,escritorio-marketing-e-publicidade
+Netsonda,Bom,68.3,escritorio-marketing-e-publicidade
+H3 Hambúrguer Gourmet,Excelente,92.8,alimentacao-e-bebidas
+Go Natural,Bom,64.2,alimentacao-e-bebidas
+Vitaminas,Razoável,58.6,alimentacao-e-bebidas
+Domino's Pizza,Óptimo,82.7,alimentacao-e-bebidas
+Telepizza,Óptimo,82.1,alimentacao-e-bebidas
+Papa John’s Pizza,Bom,72.8,alimentacao-e-bebidas
+Delta Cafés,Bom,73.4,alimentacao-e-bebidas
+Delta Q,Bom,71.3,alimentacao-e-bebidas
+Dolce Gusto,Bom,65,alimentacao-e-bebidas
+EatTasty,Óptimo,83.1,alimentacao-e-bebidas
+A Marmita,Bom,79.5,alimentacao-e-bebidas
+BRING EAT!,Bom,75.2,alimentacao-e-bebidas
+Pão em casa,Bom,78.9,alimentacao-e-bebidas
+Pau de Canela,Bom,73.2,alimentacao-e-bebidas
+Hussel,Bom,71.1,alimentacao-e-bebidas
+Nobre,Excelente,90.6,alimentacao-e-bebidas
+Saludães,Bom,67.8,alimentacao-e-bebidas
+Caçarola,Bom,66,alimentacao-e-bebidas
+Sumol+Compal,Óptimo,84.5,alimentacao-e-bebidas
+Pepsi,Fraco,32.5,alimentacao-e-bebidas
+Coca-Cola,Fraco,22.4,alimentacao-e-bebidas
+Super Bock,Fraco,21.4,alimentacao-e-bebidas
+Sagres,Insatisfatório,10.3,alimentacao-e-bebidas
+Cerveja +351,Sem dados,N/A,alimentacao-e-bebidas
+Fonte Viva,Óptimo,82.1,alimentacao-e-bebidas
+Cafécop,Razoável,56.6,alimentacao-e-bebidas
+"Serdial Vending, S.A.",Razoável,50.2,alimentacao-e-bebidas
+Água de Luso,Sem dados,N/A,alimentacao-e-bebidas
+Água das Pedras,Sem dados,N/A,alimentacao-e-bebidas
+Vitalis,Sem dados,N/A,alimentacao-e-bebidas
+Mimosa,Excelente,99.7,alimentacao-e-bebidas
+Vigor,Óptimo,81.2,alimentacao-e-bebidas
+AGROS,Bom,72.9,alimentacao-e-bebidas
+TheFork,Bom,69.1,alimentacao-e-bebidas
+Zomato,Fraco,34,alimentacao-e-bebidas
+Vegaoo,Razoável,41.8,alimentacao-e-bebidas
+Gertal,Fraco,31.4,alimentacao-e-bebidas
+ITAU,Insatisfatório,18.9,alimentacao-e-bebidas
+Gourmet Da Vila,Bom,67.6,alimentacao-e-bebidas
+Wine House Portugal,Bom,67.1,alimentacao-e-bebidas
+Garrafeira Nacional,Bom,64.5,alimentacao-e-bebidas
+Sushi at Home,Excelente,96.8,alimentacao-e-bebidas
+Home Sweet Sushi,Excelente,94.6,alimentacao-e-bebidas
+Portugália Cervejaria,Óptimo,80.8,alimentacao-e-bebidas
+Euro Revenda,Fraco,39.7,alimentacao-e-bebidas
+Talhos Silau,Insatisfatório,14.9,alimentacao-e-bebidas
+Rota das Indias,Insatisfatório,14.1,alimentacao-e-bebidas
+Olá Gelados,Insatisfatório,1.5,alimentacao-e-bebidas
+Choco&Nut,Sem dados,N/A,alimentacao-e-bebidas
+Weeel Frozen Yogurt,Sem dados,N/A,alimentacao-e-bebidas
+Auchan,Bom,76.3,hiper-e-supermercados
+Continente,Bom,73.6,hiper-e-supermercados
+Mercadona,Óptimo,89.1,hiper-e-supermercados
+Pingo Doce,Óptimo,84.9,hiper-e-supermercados
+ALDI Portugal,Óptimo,82.6,hiper-e-supermercados
+Meu Super,Bom,78.1,hiper-e-supermercados
+Froiz,Bom,67.3,hiper-e-supermercados
+Supermercados Coviran,Razoável,47,hiper-e-supermercados
+Recheio,Bom,79.9,hiper-e-supermercados
+MAKRO,Insatisfatório,17.7,hiper-e-supermercados
+JMDB,Sem dados,N/A,hiper-e-supermercados
+STP Airways,Bom,69.2,hoteis-viagens-e-turismo
+Azores Airlines,Razoável,53.7,hoteis-viagens-e-turismo
+Emirates,Razoável,42.8,hoteis-viagens-e-turismo
+Dellasol,Excelente,94.7,hoteis-viagens-e-turismo
+Viagens El Corte Inglés,Óptimo,89.8,hoteis-viagens-e-turismo
+Top Atlântico,Bom,66.2,hoteis-viagens-e-turismo
+New Ellite Club,Bom,67.6,hoteis-viagens-e-turismo
+Timeshare Revendas,Fraco,28.4,hoteis-viagens-e-turismo
+Ponta Grande Vacation Club,Fraco,21.3,hoteis-viagens-e-turismo
+Golden Club Cabanas,Razoável,57.6,hoteis-viagens-e-turismo
+Hotel O Alambique de Ouro,Razoável,43.4,hoteis-viagens-e-turismo
+Hotel Rali Viana,Razoável,41.6,hoteis-viagens-e-turismo
+Dolfi1920,Razoável,53.4,hoteis-viagens-e-turismo
+Samsonite,Razoável,51.1,hoteis-viagens-e-turismo
+Império das Malas,Fraco,20.5,hoteis-viagens-e-turismo
+Destinia,Óptimo,86,hoteis-viagens-e-turismo
+iCliGo,Bom,62.2,hoteis-viagens-e-turismo
+Flykube,Razoável,50,hoteis-viagens-e-turismo
+Grupo Interpass,Bom,66.7,hoteis-viagens-e-turismo
+Odisseias,Bom,62.1,hoteis-viagens-e-turismo
+Goodlife,Razoável,59.7,hoteis-viagens-e-turismo
+Hotéis Vila Galé,Razoável,48.3,hoteis-viagens-e-turismo
+SANA Hotels,Razoável,47.2,hoteis-viagens-e-turismo
+Luna Hoteis,Razoável,46.5,hoteis-viagens-e-turismo
+Groundforce Portugal,Razoável,49.6,hoteis-viagens-e-turismo
+Portway,Fraco,26.4,hoteis-viagens-e-turismo
+ANA Aeroportos de Portugal,Insatisfatório,4.4,hoteis-viagens-e-turismo
+Hotel da Montanha,Razoável,45,hoteis-viagens-e-turismo
+Clube Praia da Rocha,Insatisfatório,10,hoteis-viagens-e-turismo
+Smart Studios,Insatisfatório,10,hoteis-viagens-e-turismo
+Ideal Casa,Fraco,35.9,hoteis-viagens-e-turismo
+Costa Cruzeiros,Fraco,31.6,hoteis-viagens-e-turismo
+Flytime,Insatisfatório,17.4,hoteis-viagens-e-turismo
+Traventia,Bom,67.4,hoteis-viagens-e-turismo
+Stayforlong,Razoável,53.9,hoteis-viagens-e-turismo
+Uniplaces,Razoável,52.7,hoteis-viagens-e-turismo
+Worten,Óptimo,87.2,informatica-tecnologia-e-som
+Radio Popular,Bom,74.2,informatica-tecnologia-e-som
+FNAC,Fraco,21.1,informatica-tecnologia-e-som
+Powerplanetonline,Óptimo,86.2,informatica-tecnologia-e-som
+iServices,Óptimo,85,informatica-tecnologia-e-som
+iStore,Óptimo,82.9,informatica-tecnologia-e-som
+Globaldata,Excelente,92.2,informatica-tecnologia-e-som
+PcComponentes,Óptimo,87.4,informatica-tecnologia-e-som
+PCDIGA,Óptimo,84.4,informatica-tecnologia-e-som
+Aquário Electrónica,Óptimo,85.8,informatica-tecnologia-e-som
+Castro Electrónica,Óptimo,85.8,informatica-tecnologia-e-som
+Eradigital,Óptimo,85.3,informatica-tecnologia-e-som
+BQ,Razoável,45.3,informatica-tecnologia-e-som
+LG Electronics,Fraco,32.7,informatica-tecnologia-e-som
+HTC,Fraco,27.2,informatica-tecnologia-e-som
+DNS.pt,Óptimo,83.8,informatica-tecnologia-e-som
+Dominios.pt,Óptimo,82.8,informatica-tecnologia-e-som
+Hostinger,Óptimo,80.8,informatica-tecnologia-e-som
+Medion,Bom,66.7,informatica-tecnologia-e-som
+Insys,Razoável,57.6,informatica-tecnologia-e-som
+TP-LINK,Razoável,55.6,informatica-tecnologia-e-som
+Deccare - Sistemas de Informação,Óptimo,82,informatica-tecnologia-e-som
+YOU GET,Óptimo,80.6,informatica-tecnologia-e-som
+CSTech Portugal,Bom,77.4,informatica-tecnologia-e-som
+Pelicula de Vidro,Excelente,99.1,informatica-tecnologia-e-som
+Lmobile,Excelente,96.5,informatica-tecnologia-e-som
+La Casa de las Carcasas,Óptimo,84.5,informatica-tecnologia-e-som
+Press Start,Excelente,93,informatica-tecnologia-e-som
+CeX,Óptimo,81.6,informatica-tecnologia-e-som
+Player,Bom,73.5,informatica-tecnologia-e-som
+Império Multimédia,Excelente,94.1,informatica-tecnologia-e-som
+Infocomputer Portugal,Óptimo,89.8,informatica-tecnologia-e-som
+nanoChip,Óptimo,82.4,informatica-tecnologia-e-som
+RECONDICIONADOS.PT,Excelente,92.3,informatica-tecnologia-e-som
+DVD.pt,Óptimo,83.1,informatica-tecnologia-e-som
+fmTEK - Informatica,Razoável,52.6,informatica-tecnologia-e-som
+Rhinocamera.pt,Bom,62,informatica-tecnologia-e-som
+Colorfoto,Insatisfatório,15.6,informatica-tecnologia-e-som
+Niobo,Sem dados,N/A,informatica-tecnologia-e-som
+CDGO.COM,Bom,79.9,informatica-tecnologia-e-som
+Centro Sony,Razoável,55.8,informatica-tecnologia-e-som
+Thomann,Razoável,51.1,informatica-tecnologia-e-som
+Fujifilm,Bom,79.2,informatica-tecnologia-e-som
+SONY,Fraco,21.3,informatica-tecnologia-e-som
+Nikon,Insatisfatório,12.4,informatica-tecnologia-e-som
+OLX,Óptimo,86,internet-sites-e-negocios
+CustoJusto.pt,Óptimo,81.9,internet-sites-e-negocios
+Coisas.com,Razoável,55.9,internet-sites-e-negocios
+Joom,Excelente,94.1,internet-sites-e-negocios
+LightInTheBox,Razoável,46,internet-sites-e-negocios
+MiniIntheBox,Fraco,35.8,internet-sites-e-negocios
+Eurocupon,Bom,75.6,internet-sites-e-negocios
+TopVendas,Bom,70.8,internet-sites-e-negocios
+Livoo,Bom,62.4,internet-sites-e-negocios
+KuantoKusta,Óptimo,84.1,internet-sites-e-negocios
+Shopping.pt,Bom,78.1,internet-sites-e-negocios
+Dott,Bom,67,internet-sites-e-negocios
+Mercadão,Excelente,93.4,internet-sites-e-negocios
+360 Hyper,Bom,76.7,internet-sites-e-negocios
+Eupoupo.com,Fraco,29.9,internet-sites-e-negocios
+Levas.me,Excelente,92.2,internet-sites-e-negocios
+BestPrice,Óptimo,83.2,internet-sites-e-negocios
+iCare-Market,Óptimo,80.8,internet-sites-e-negocios
+Comparamais,Óptimo,83.3,internet-sites-e-negocios
+Selectra,Bom,70.4,internet-sites-e-negocios
+ComparaJá.pt,Razoável,55,internet-sites-e-negocios
+Standvirtual,Óptimo,85.3,internet-sites-e-negocios
+Abmotor,Sem dados,N/A,internet-sites-e-negocios
+Imovirtual,Óptimo,82.3,internet-sites-e-negocios
+Nolon Portugal,Fraco,26.5,internet-sites-e-negocios
+MaisConsultores,Insatisfatório,8.7,internet-sites-e-negocios
+Habitissimo,Bom,67.7,internet-sites-e-negocios
+Vortal,Bom,60.3,internet-sites-e-negocios
+Oscar,Razoável,51.3,internet-sites-e-negocios
+LiveCareer,Razoável,52.1,internet-sites-e-negocios
+Indeed,Insatisfatório,19,internet-sites-e-negocios
+NetEmprego,Insatisfatório,10,internet-sites-e-negocios
+RealFevr,Óptimo,82.3,internet-sites-e-negocios
+Meetic,Razoável,46.7,internet-sites-e-negocios
+Twoo,Razoável,44.6,internet-sites-e-negocios
+Easy Marca,Bom,69.8,internet-sites-e-negocios
+Certidao-nascimento-pt.org,Razoável,58.8,internet-sites-e-negocios
+RegistoPredial.com,Fraco,30.4,internet-sites-e-negocios
+Manheim,Óptimo,81.7,internet-sites-e-negocios
+Oportunity Leilões,Bom,75.6,internet-sites-e-negocios
+Bidding Leilões,Bom,60.4,internet-sites-e-negocios
+Equifax,Óptimo,81.8,internet-sites-e-negocios
+Portugalio,Razoável,59.5,internet-sites-e-negocios
+eInforma,Fraco,32.5,internet-sites-e-negocios
+HomyCasa,Óptimo,82,mobiliario-decoracao-e-eletrodomesticos
+Vente-unique.pt,Óptimo,80.8,mobiliario-decoracao-e-eletrodomesticos
+Conforama,Bom,76.9,mobiliario-decoracao-e-eletrodomesticos
+D+ Sofás,Razoável,58.1,mobiliario-decoracao-e-eletrodomesticos
+Golden Sofás,Razoável,52,mobiliario-decoracao-e-eletrodomesticos
+Sofás Zone,Razoável,51.1,mobiliario-decoracao-e-eletrodomesticos
+Flama,Excelente,90,mobiliario-decoracao-e-eletrodomesticos
+Rowenta,Óptimo,82.9,mobiliario-decoracao-e-eletrodomesticos
+Rainbow Portugal,Bom,68.3,mobiliario-decoracao-e-eletrodomesticos
+VidaXL,Óptimo,87.2,mobiliario-decoracao-e-eletrodomesticos
+Hôma,Óptimo,86,mobiliario-decoracao-e-eletrodomesticos
+Casika,Óptimo,81.2,mobiliario-decoracao-e-eletrodomesticos
+Digital Place,Óptimo,88,mobiliario-decoracao-e-eletrodomesticos
+Electro Pescador,Bom,79.4,mobiliario-decoracao-e-eletrodomesticos
+STOCK in,Bom,77.2,mobiliario-decoracao-e-eletrodomesticos
+Beliani,Óptimo,81.1,mobiliario-decoracao-e-eletrodomesticos
+Cadeiraspro.pt,Bom,79.4,mobiliario-decoracao-e-eletrodomesticos
+Kenay Home,Bom,76.6,mobiliario-decoracao-e-eletrodomesticos
+Molaflex,Excelente,92.8,mobiliario-decoracao-e-eletrodomesticos
+Colchão Emma,Óptimo,84,mobiliario-decoracao-e-eletrodomesticos
+O meu Colchão,Óptimo,80.9,mobiliario-decoracao-e-eletrodomesticos
+Loja das Facas,Bom,68.6,mobiliario-decoracao-e-eletrodomesticos
+Tupperware,Fraco,23.5,mobiliario-decoracao-e-eletrodomesticos
+Bodum,Insatisfatório,13.2,mobiliario-decoracao-e-eletrodomesticos
+Artys,Bom,70.6,mobiliario-decoracao-e-eletrodomesticos
+Magenta Decoração,Razoável,55.8,mobiliario-decoracao-e-eletrodomesticos
+Interdesign,Razoável,49.5,mobiliario-decoracao-e-eletrodomesticos
+Capas & Capas,Óptimo,86.8,mobiliario-decoracao-e-eletrodomesticos
+Sellone,Óptimo,83.2,mobiliario-decoracao-e-eletrodomesticos
+Sensatoferta,Óptimo,80,mobiliario-decoracao-e-eletrodomesticos
+Master Dental,Óptimo,88,saude
+Clínica Santa Madalena,Óptimo,87.4,saude
+Smile.Up,Óptimo,81.1,saude
+Óculos Para Todos,Excelente,98.5,saude
+Grupo Optivisão,Óptimo,89.9,saude
+Opticenter,Óptimo,86.8,saude
+My Pharma Spot,Excelente,93.4,saude
+Wayfarma,Óptimo,86.3,saude
+Wells,Bom,79.4,saude
+Cintramédica,Bom,67,saude
+Trofa Saúde,Razoável,58.4,saude
+Lusíadas Saúde,Razoável,42.4,saude
+Acústica Médica,Óptimo,86.4,saude
+Auditiv,Óptimo,82.9,saude
+O Meu Doutor Reabilitação Auditiva Portugal,Bom,76.7,saude
+Hospital de Lamego,Óptimo,82.6,saude
+Hospital Distrital de Chaves,Bom,77.1,saude
+Centro Hospitalar Trás os Montes e Alto Douro,Bom,73.8,saude
+Asminhaslentes.pt,Fraco,38.7,saude
+Alensa,Fraco,33.9,saude
+Visão e Visual,Sem dados,N/A,saude
+Essilor,Bom,69.8,saude
+ZEISS Vision Care,Fraco,34.4,saude
+Shamir Optical,Sem dados,N/A,saude
+Affidea Portugal,Excelente,91.2,saude
+Clínica da Mente,Bom,75,saude
+Dr. Well's,Bom,74.4,saude
+Posturarte,Óptimo,87.8,saude
+Tempur,Bom,73.1,saude
+Quirumed,Bom,70.6,saude
+INEM,Razoável,47.6,saude
+Palvidas,Insatisfatório,2.6,saude
+Ambulâncias Força de Viver,Insatisfatório,1.5,saude
+Unilabs,Razoável,49,saude
+LabMED Saúde,Razoável,42.8,saude
+SYNLAB,Fraco,24.8,saude
+BebéCord,Bom,75.6,saude
+Bayer Portugal,Razoável,40.3,saude
+Pfizer Portugal,Fraco,34,saude
+Bebé4D,Bom,77.3,saude
+Radis,Fraco,33.9,saude
+CENEU,Fraco,28.1,saude
+Casa de Saúde São Mateus,Fraco,35.6,saude
+Residências Montepio,Fraco,32,saude
+Sanfil,Fraco,28.3,saude
+Centro de Saúde de Carnaxide,Razoável,57.4,saude
+Centro de Saúde de Sete Rios,Razoável,43.3,saude
+Centro de Saúde de Estremoz,Fraco,36.8,saude
+Quirónprevención,Bom,78.5,saude
+Acção Contínua,Bom,76.5,saude
+AtlantiCare,Bom,73,saude
+Óptica24,Bom,70.4,saude
+Fábrica de Óculos do Cacém,Bom,64.1,saude
+Edel-Optics.pt,Razoável,49.5,saude
+CMD Bolhão - Ortodontia,Bom,61.5,saude
+Centro Ortodôntico Avenida da Liberdade,Fraco,33.8,saude
+Clínica Dentária Egas Moniz,Fraco,31,saude
+Allianz,Bom,76.7,seguros-vida-auto-e-planos-de-saude
+Zurich,Bom,76.5,seguros-vida-auto-e-planos-de-saude
+Ageas Seguros,Bom,76.1,seguros-vida-auto-e-planos-de-saude
+Seguro Directo,Bom,71.2,seguros-vida-auto-e-planos-de-saude
+NSeguros,Razoável,54.6,seguros-vida-auto-e-planos-de-saude
+Seguros Logo,Razoável,51.8,seguros-vida-auto-e-planos-de-saude
+Saúde Prime,Óptimo,81.6,seguros-vida-auto-e-planos-de-saude
+Agilcare,Óptimo,80.2,seguros-vida-auto-e-planos-de-saude
+Sorriso Mais,Óptimo,80.1,seguros-vida-auto-e-planos-de-saude
+Médis,Óptimo,87.6,seguros-vida-auto-e-planos-de-saude
+MGEN Saúde,Óptimo,86.7,seguros-vida-auto-e-planos-de-saude
+AdvanceCare,Bom,72.2,seguros-vida-auto-e-planos-de-saude
+April,Óptimo,80.4,seguros-vida-auto-e-planos-de-saude
+Real Vida Seguros,Bom,67.2,seguros-vida-auto-e-planos-de-saude
+Aegon Santander Portugal,Bom,64,seguros-vida-auto-e-planos-de-saude
+SPB Ibérica,Óptimo,82.4,seguros-vida-auto-e-planos-de-saude
+SNG Garantia Automóvel,Bom,74.1,seguros-vida-auto-e-planos-de-saude
+GTS Garantia Automóvel,Bom,61.1,seguros-vida-auto-e-planos-de-saude
+Solera Portugal,Razoável,47.8,seguros-vida-auto-e-planos-de-saude
+DEKRA CLAIMS,Fraco,26.5,seguros-vida-auto-e-planos-de-saude
+Dualperi,Fraco,20.8,seguros-vida-auto-e-planos-de-saude
+Câmara Municipal da Nazaré,Excelente,90.9,servicos-e-administracao-publica
+Câmara Municipal de Alcochete,Óptimo,81.2,servicos-e-administracao-publica
+Câmara Municipal de Lagos,Bom,74.6,servicos-e-administracao-publica
+Imprensa Nacional Casa da Moeda,Excelente,91.7,servicos-e-administracao-publica
+IEFP,Óptimo,89.2,servicos-e-administracao-publica
+IMT,Óptimo,82,servicos-e-administracao-publica
+ADSE,Bom,62.2,servicos-e-administracao-publica
+Caixa Geral de Aposentações,Fraco,25.9,servicos-e-administracao-publica
+Centro Nacional de Pensões,Insatisfatório,16.9,servicos-e-administracao-publica
+Autoridade Tributária e Aduaneira,Excelente,90.8,servicos-e-administracao-publica
+DGEG,Óptimo,88,servicos-e-administracao-publica
+ANSR,Óptimo,86.7,servicos-e-administracao-publica
+EMEM,Óptimo,83.3,servicos-e-administracao-publica
+MatosinhosHabit,Óptimo,81.8,servicos-e-administracao-publica
+Ágora,Razoável,46.4,servicos-e-administracao-publica
+SEF,Insatisfatório,16.8,servicos-e-administracao-publica
+Polícia Municipal do Porto,Insatisfatório,14.6,servicos-e-administracao-publica
+PSP,Insatisfatório,12.2,servicos-e-administracao-publica
+UBER,Razoável,43.4,transportes-publicos-aluguer-e-conducao
+ANTRAL,Fraco,37.3,transportes-publicos-aluguer-e-conducao
+FREE NOW,Fraco,35.9,transportes-publicos-aluguer-e-conducao
+Galp,Óptimo,88,transportes-publicos-aluguer-e-conducao
+Repsol,Bom,79.5,transportes-publicos-aluguer-e-conducao
+Prio Energy,Bom,75,transportes-publicos-aluguer-e-conducao
+SMTUC,Óptimo,82.4,transportes-publicos-aluguer-e-conducao
+STCP,Bom,69.1,transportes-publicos-aluguer-e-conducao
+TST - Transportes Sul do Tejo,Bom,64.4,transportes-publicos-aluguer-e-conducao
+Metro de Lisboa,Razoável,40.9,transportes-publicos-aluguer-e-conducao
+Metro do Porto,Fraco,33.7,transportes-publicos-aluguer-e-conducao
+Refer,Fraco,31,transportes-publicos-aluguer-e-conducao
+Discovercars.com,Bom,77.3,transportes-publicos-aluguer-e-conducao
+BeRent - Rent a Car,Bom,76.8,transportes-publicos-aluguer-e-conducao
+Sixt,Bom,76.3,transportes-publicos-aluguer-e-conducao
+Ubirider,Óptimo,88.6,transportes-publicos-aluguer-e-conducao
+Andante,Bom,71.9,transportes-publicos-aluguer-e-conducao
+Navegante,Insatisfatório,10,transportes-publicos-aluguer-e-conducao
+Globalvia,Bom,62.9,transportes-publicos-aluguer-e-conducao
+Scutvias,Razoável,54.2,transportes-publicos-aluguer-e-conducao
+Portvias,Fraco,35.7,transportes-publicos-aluguer-e-conducao
+Busy Transportes,Sem dados,N/A,transportes-publicos-aluguer-e-conducao
+Carrinho de Esferas,Sem dados,N/A,transportes-publicos-aluguer-e-conducao
+Rodinhas,Sem dados,N/A,transportes-publicos-aluguer-e-conducao
+Rodoviária do Lis,Bom,67.7,transportes-publicos-aluguer-e-conducao
+Yellow Bus / Aerobus,Bom,67,transportes-publicos-aluguer-e-conducao
+FlixBus,Razoável,57.1,transportes-publicos-aluguer-e-conducao
+Jump,Bom,74.8,transportes-publicos-aluguer-e-conducao
+ACCIONA Motosharing,Fraco,33.8,transportes-publicos-aluguer-e-conducao
+Bird,Insatisfatório,10.8,transportes-publicos-aluguer-e-conducao
+Escolas de Condução Bordalo Norte,Bom,69.8,transportes-publicos-aluguer-e-conducao
+Segurança Máxima - Escolas de Condução,Fraco,32.3,transportes-publicos-aluguer-e-conducao
+Escola de Condução Radical,Fraco,27.8,transportes-publicos-aluguer-e-conducao
+Loures Parque,Razoável,55.1,transportes-publicos-aluguer-e-conducao
+Datarede,Razoável,41.6,transportes-publicos-aluguer-e-conducao
+CPE - Companhia de Parques de Estacionamento,Fraco,35.5,transportes-publicos-aluguer-e-conducao
+Atlantic Ferries,Fraco,21.8,transportes-publicos-aluguer-e-conducao
+Transtejo,Insatisfatório,9.2,transportes-publicos-aluguer-e-conducao
+Rentdouro,Insatisfatório,1.5,transportes-publicos-aluguer-e-conducao
